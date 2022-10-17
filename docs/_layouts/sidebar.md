@@ -1,12 +1,7 @@
-- Getting started with Open Source
-
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
-
-- Resources
-
+* Getting started with Open Source
+  - [What is open source]()
+  - []()
+* Resources
   - [Web Development]()
   - [Android Development]()
   - [Artificial Intelligence]()
