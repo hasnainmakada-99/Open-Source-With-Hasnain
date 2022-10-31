@@ -1,10 +1,8 @@
-* Getting started with Open Source
-  - [What is open source]()
-  - []()
+* Getting started
+  - [Contribution guidelines](../Contributing.md)
 * Resources
-  - [Web Development]()
-  - [Android Development]()
-  - [Artificial Intelligence]()
-  - [Machine Learning]()
-  - [Python]()
+  - [Web Development](./../pages/web-development-resources.md)
+  - Android Development
+  - Machine Learning
+  - [DevOps](./../pages/devops-resources.md)
 
