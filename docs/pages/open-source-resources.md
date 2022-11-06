@@ -1,7 +1,7 @@
 # Open Source Resources
 
 |Description | Preview   | Link to get started with it   |
-| ------------ | ------------ | ------------ |
-|   1. Getting started with Open Source - The beginner's guide | [![open source](https://hasnainm.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1667192939115%2FT5SEGIR5S.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75 "Open Source")](https://hasnainm.hashnode.dev/getting-started-with-open-source "Open Source Guidance")  | [Here you go](https://hasnainm.hashnode.dev/getting-started-with-open-source)  |
-|   |   |   |
+| :------------: | :------------: | :------------: |
+|   1. Getting started with Open Source - The beginner's guide | [![open source](https://ik.imagekit.io/1cw2zpbjy/OSWH/Open_Source_blog_cover.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667726312561 "Open Source")](https://hasnainm.hashnode.dev/getting-started-with-open-source "Open Source Guidance")  | [Here you go](https://hasnainm.hashnode.dev/getting-started-with-open-source)
+| **2. LinkFree by EddieHub - An Open Source alternative to [Linktree](https://linktr.ee/) that connects your audience to all your content with just one link** | <center>  [![Linkfree](https://ik.imagekit.io/1cw2zpbjy/OSWH/LinkFree_-_Banner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667726024401 "LinkFree")](https://hasnainm.hashnode.dev/getting-started-with-open-source "Linkfree") </center> | [Here you go](https://github.com/EddieHubCommunity/LinkFree)
 
