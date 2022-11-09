@@ -82,6 +82,8 @@ git push origin YourBranchName
 
 ---
 
+## To run the project locally on your machine, check out the official documentation by [docsify](https://docsify.js.org/#/quickstart?id=quick-start)
+
 ## Issues
 
 In order to discuss changes, you are welcome to [open an issue](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) about what you would like to contribute. Enhancements are always encouraged and appreciated.
