@@ -1,3 +1,5 @@
-node_modules
+./node_modules
 
-*.json
+./package-lock.json
+
+./package.json
