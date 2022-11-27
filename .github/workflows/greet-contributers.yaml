@@ -1,0 +1,17 @@
+
+name: "GreetContributor"
+on:
+  pull_request:
+    types: [opened,synchronize]
+    
+jobs:
+  GreetCommitter:    
+    runs-on: ubuntu-latest
+    steps:
+    - name: "Greet contributor"
+      uses: ibakshay/greet-contributors-action@v3
+      env: 
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with: 
+        content: "Greetings, and thank you for taking your time and effort to contribute to OSWH. We truly value it. If any changes need to be made to your code, I will let you know as soon as possible. :DON'T STOP CONTRIBUTING: ❤️"
+       #default content is "Thank you for taking your time and effort for your contribution, we truly value it. :tada:" 
