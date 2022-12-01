@@ -14,6 +14,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "KlausMikhaelson",
+      "name": "Satyam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100528412?v=4",
+      "profile": "https://github.com/KlausMikhaelson",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
