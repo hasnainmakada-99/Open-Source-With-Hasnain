@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
 
@@ -22,6 +22,7 @@ You can navigate to various resources from the sidebar.
     <tr>
       <td align="center"><a href="https://github.com/JavascriptDon"><img src="https://avatars.githubusercontent.com/u/101202952?v=4?s=100" width="100px;" alt="Helitha Rupasinghe"/><br /><sub><b>Helitha Rupasinghe</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=JavascriptDon" title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/KlausMikhaelson"><img src="https://avatars.githubusercontent.com/u/100528412?v=4?s=100" width="100px;" alt="Satyam"/><br /><sub><b>Satyam</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=KlausMikhaelson" title="Code">💻</a></td>
+      <td align="center"><a href="http://edsondsouza.bio.link/"><img src="https://avatars.githubusercontent.com/u/93525771?v=4?s=100" width="100px;" alt="Edson Sooraj Dsouza"/><br /><sub><b>Edson Sooraj Dsouza</b></sub></a><br /><a href="#content-edsodz" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
