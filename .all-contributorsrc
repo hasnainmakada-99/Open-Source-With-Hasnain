@@ -1,0 +1,34 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "JavascriptDon",
+      "name": "Helitha Rupasinghe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101202952?v=4",
+      "profile": "https://github.com/JavascriptDon",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "KlausMikhaelson",
+      "name": "Satyam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100528412?v=4",
+      "profile": "https://github.com/KlausMikhaelson",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Open-Source-With-Hasnain",
+  "projectOwner": "hasnainmakada-99"
+}

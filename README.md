@@ -1,4 +1,7 @@
 <img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
 
 This project is made for beginners to get started with open source. Beginners can find resource regardless of any field, whether you're from AI, ML, WEB, ANDROID etc. you can find useful resources from here. To get started with contributing to this project, see [contirbuting.md](./Contributing.md)
@@ -12,6 +15,21 @@ You can navigate to various resources from the sidebar.
 ## Thank you so much to this awesome contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/JavascriptDon"><img src="https://avatars.githubusercontent.com/u/101202952?v=4?s=100" width="100px;" alt="Helitha Rupasinghe"/><br /><sub><b>Helitha Rupasinghe</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=JavascriptDon" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/KlausMikhaelson"><img src="https://avatars.githubusercontent.com/u/100528412?v=4?s=100" width="100px;" alt="Satyam"/><br /><sub><b>Satyam</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=KlausMikhaelson" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
