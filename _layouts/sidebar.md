@@ -5,7 +5,8 @@
 * Resources
   - [DevOps](./../pages/devops-resources.md)
   - [Web Development](./../pages/web-development-resources.md)
-  - Android Development
-  - Machine Learning
+  - [Android Development](../pages/android-development-resources.md)
+  - [Machine Learning](../pages/machine-learning-resources.md)
+  - [Artificial Intelligence]()
   
 
