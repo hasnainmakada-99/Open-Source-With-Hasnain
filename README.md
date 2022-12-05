@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png">
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
@@ -27,6 +27,7 @@ You can navigate to various resources from the sidebar.
       <td align="center"><a href="http://edsondsouza.bio.link/"><img src="https://avatars.githubusercontent.com/u/93525771?v=4?s=100" width="100px;" alt="Edson Sooraj Dsouza"/><br /><sub><b>Edson Sooraj Dsouza</b></sub></a><br /><a href="#content-edsodz" title="Content">🖋</a></td>
       <td align="center"><a href="http://hasnainmakada-99.github.io"><img src="https://avatars.githubusercontent.com/u/82728823?v=4?s=100" width="100px;" alt="Hasnain Makada"/><br /><sub><b>Hasnain Makada</b></sub></a><br /><a href="#ideas-hasnainmakada-99" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center"><a href="https://chandel.me/"><img src="https://avatars.githubusercontent.com/u/94097778?v=4?s=100" width="100px;" alt="Saksham chandel"/><br /><sub><b>Saksham chandel</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=yung-coder" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/SattyamSamania"><img src="https://avatars.githubusercontent.com/u/67833888?v=4?s=100" width="100px;" alt="Sattyam Samania"/><br /><sub><b>Sattyam Samania</b></sub></a><br /><a href="#content-SattyamSamania" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
