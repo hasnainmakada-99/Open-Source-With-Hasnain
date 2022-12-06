@@ -59,6 +59,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Arbtrage",
+      "name": "Sayantan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100552235?v=4",
+      "profile": "https://github.com/Arbtrage",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
