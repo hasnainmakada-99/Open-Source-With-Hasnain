@@ -8,6 +8,6 @@
   - [Android Development](../pages/android-development-resources.md)
   - [Machine Learning](../pages/machine-learning-resources.md)
   - [Artificial Intelligence](../pages/AI-resource.md)
-  - [Data Structure And Algorithm](../pages/data-structure-and-algorithms-resources.md)
+  - [Data Structure And Algorithms](../pages/data-structure-and-algorithms-resources.md)
   
 
