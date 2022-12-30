@@ -11,4 +11,5 @@
 | **7. Complete Guide to Open Source - How to Contribute by freecodecamp ft Eddie Jaoude**| <center> [![Open Source](https://img.youtube.com/vi/yzeVMecydCE/sddefault.jpg "Open source Guide")](https://youtu.be/yzeVMecydCE)</center> | [Here you go](https://youtu.be/yzeVMecydCE)
 | **8. Complete Git and GitHub Tutorial by Kunal Kushwaha**| <center> [![GitHub](https://img.youtube.com/vi/apGV9Kg7ics/sddefault.jpg "Git and GitHub")](https://youtu.be/apGV9Kg7ics)</center> | [Here you go](https://youtu.be/apGV9Kg7ics)
 | **9. First Contribution GitHub Repo - Make your first contribution here Now!**| <center> [![OS Programs](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/330px-GitHub_logo_2013.svg.png "First Contribution Repo")](https://github.com/firstcontributions/first-contributions)</center> | [Here you go](https://github.com/firstcontributions/first-contributions)
-| **10. GitHub Good First Issue Finder**| <center> [![OS Programs](https://finder.eddiehub.io/images/hubber.png "Issue Finder")](https://finder.eddiehub.io/)</center> | [Here you go](https://finder.eddiehub.io/)
+| **10. GitHub Good First Issue Finder**| <center> [![image info](./images/eddie.png)](https://finder.eddiehub.io/)</center> | [Here you go](https://finder.eddiehub.io/)
+
