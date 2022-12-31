@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png">
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
@@ -34,6 +34,7 @@ You can navigate to various resources from the sidebar.
       <td align="center"><a href="https://github.com/Busayo-ojo"><img src="https://avatars.githubusercontent.com/u/76451855?v=4?s=100" width="100px;" alt="Busayo Ojo"/><br /><sub><b>Busayo Ojo</b></sub></a><br /><a href="#tutorial-Busayo-ojo" title="Tutorials">✅</a></td>
       <td align="center"><a href="https://bio.link/krish4856"><img src="https://avatars.githubusercontent.com/u/114345816?v=4?s=100" width="100px;" alt="Krish Jaiswal"/><br /><sub><b>Krish Jaiswal</b></sub></a><br /><a href="#content-KrishJ4856" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/vaibhavx42"><img src="https://avatars.githubusercontent.com/u/110530263?v=4?s=100" width="100px;" alt="vaibhavx42"/><br /><sub><b>vaibhavx42</b></sub></a><br /><a href="#tutorial-vaibhavx42" title="Tutorials">✅</a></td>
+      <td align="center"><a href="https://github.com/miraz-mondal"><img src="https://avatars.githubusercontent.com/u/89645073?v=4?s=100" width="100px;" alt="Miraz Mondal"/><br /><sub><b>Miraz Mondal</b></sub></a><br /><a href="#design-miraz-mondal" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
