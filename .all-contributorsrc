@@ -95,6 +95,15 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "miraz-mondal",
+      "name": "Miraz Mondal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89645073?v=4",
+      "profile": "https://github.com/miraz-mondal",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
