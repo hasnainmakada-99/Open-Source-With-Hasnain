@@ -4,6 +4,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+![](https://i.imgur.com/waxVImv.png)
+
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
 
 This project is made for beginners to get started with open source. Beginners can find resource regardless of any field, whether you're from AI, ML, WEB, ANDROID etc. you can find useful resources from here. To get started with contributing to this project, see [contirbuting.md](./Contributing.md)
@@ -13,6 +15,8 @@ You can navigate to various resources from the sidebar.
 > For any queries reagrding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
   
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## Thank you so much to this awesome contributors 🚀🚀🚀
 
