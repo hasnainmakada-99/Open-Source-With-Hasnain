@@ -1,7 +1,9 @@
 <img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png">
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
@@ -11,8 +13,20 @@ This project is made for beginners to get started with open source. Beginners ca
 You can navigate to various resources from the sidebar.
 
 > For any queries reagrding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
-  
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+
+![](https://i.imgur.com/waxVImv.png)
+
+Please consider sharing a post about [this repo](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) and the value it provides. It really does help!
+
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/hasnainmakada-99/Open-Source-With-Hasnain,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://github.com/hasnainmakada-99/Open-Source-With-Hasnain,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://github.com/hasnainmakada-99/Open-Source-With-Hasnain,%20guides%20and%20other%20educational%20content%20for%20Developers)
+
+![](https://i.imgur.com/waxVImv.png)
 
 ## Thank you so much to this awesome contributors 🚀🚀🚀
 
