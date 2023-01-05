@@ -10,10 +10,185 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css" />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
+<style>
+  * {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
 
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  background-color: black;
+}
+
+.container {
+  max-width: 90rem;
+  margin: 2rem auto;
+  padding: 0px 2rem;
+}
+
+.img-fluid {
+  max-width: 100%;
+}
+.logo img {
+  width: 70px;
+  height: 70px;
+  border-radius: 41px;
+  outline: 4px solid red;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 3rem;
+  align-items: center;
+}
+
+.items {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.items a:link {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.items a:hover {
+  color: red;
+}
+
+.active {
+  color: red !important;
+}
+
+button {
+  font-size: 2rem;
+  padding: 0.6rem 1rem;
+  font-weight: bold;
+  color: white;
+  background: linear-gradient(to right, #c31432, #892211);
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  cursor: pointer;
+  border: none;
+}
+
+button:hover {
+  background: white;
+  outline: 1px solid red;
+  color: red;
+  border: none;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+.short-info {
+  color: red;
+  font-size: 1rem;
+  margin-bottom: 0.9rem;
+}
+
+.hero-heading {
+  font-size: 3rem;
+  margin-bottom: 0.3rem;
+}
+.hero-sub-heading {
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
+
+.users {
+  display: flex;
+  align-items: center;
+  margin: 1rem 0px;
+}
+.user {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid red;
+}
+.learn-more {
+  align-self: start;
+  margin-top: 3rem;
+}
+
+/* media queries */
+
+@media only screen and (max-width: 800px) {
+  .items {
+    display: none;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
+  }
+  .learn-more {
+    align-self: start;
+    margin: 1rem 0px;
+  }
+}
+
+</style>
 <body>
   <div id="app"></div>
+<header>
+  <nav>
+    <div class="logo">
+      <img src="https://images.unsplash.com/photo-1533794318766-897f4d50cb39?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MDUyMDk&ixlib=rb-1.2.1&q=80">
+    </div>
+    <div class="items">
+      <a href="#" class="active">Home</a>
+      <a href="#">Service</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+      <a href="#">Blog</a>
+    </div>
 
+    <div class="other">
+      <button>Log in</button>
+    </div>
+  </nav>
+</header>
+
+<!-- Hero Section -->
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="info">
+        <p class="short-info">#Get Your 14 Days Free Trial</p>
+        <h2 class="hero-heading">Manage All Of Your Stuff Using A TGB</h2>
+        <p class="hero-sub-heading">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id tincidunt eifend odio viverra diam aliquet donec again.</p>
+        <div class="users">
+          <img src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MTM4Nzk&ixlib=rb-1.2.1&q=80" class="img-fluid user">
+          <img src="https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MTM4Nzk&ixlib=rb-1.2.1&q=80" class="img-fluid user">
+          <img src="https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MTM4Nzk&ixlib=rb-1.2.1&q=80" class="img-fluid user">
+          <img src="https://images.unsplash.com/photo-1534614971-6be99a7a3ffd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MTM4Nzk&ixlib=rb-1.2.1&q=80" class="img-fluid user">
+          <p>4M+ users</p>
+        </div>
+        <button class="learn-more">
+          Learn More</button>
+      </div>
+      <div class="hero-image">
+        <img src="https://images.unsplash.com/photo-1519326882834-04c334752f58?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTg0MDUxMzU&ixlib=rb-1.2.1&q=80" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</section>
   <script>
     window.$docsify = {
       name: 'Open Source With Hasnain',
