@@ -50,3 +50,8 @@ You can navigate to various resources from the sidebar.
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+  
+ ## Miscellaneous
+Do consider looking at other paradigms of this documentation
+  - [Change-logs](/.github/CHANGELOG.md)
+  - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
