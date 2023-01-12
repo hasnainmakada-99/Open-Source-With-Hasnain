@@ -53,5 +53,5 @@ You can navigate to various resources from the sidebar.
   
  ## Miscellaneous
 Do consider looking at other paradigms of this documentation
-  - [Change-logs](/.github/CHANGELOG.md)
-  - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
+  - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CHANGELOG.md)
+  - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
