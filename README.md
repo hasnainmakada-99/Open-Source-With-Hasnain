@@ -6,7 +6,14 @@
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
 
-This project is made for beginners to get started with open source. Beginners can find resource regardless of any field, whether you're from AI, ML, WEB, ANDROID etc. you can find useful resources from here. To get started with contributing to this project, see [contirbuting.md](./Contributing.md)
+Welcome to the guide to open source! This repository is designed to provide resources for individuals new to the world of open source. This project is made for beginners to get started with open source. Whether you're from the fields of AI, ML, web development, or Android development, you'll find useful information and resources here to help you get started 🚀.
+<br><br>
+In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds. From beginner-friendly resources to resources on advanced topics and best practices, there's something for everyone. We also have a community of experienced open source contributors who are always willing to help and answer any questions you may have.
+<br><br>
+We encourage you to explore our repository, ask questions, and get involved in the open source community.
+**"Let's learn and grow together!"**
+<br><br>
+To get started with contributing to this project, see [contirbuting.md](./Contributing.md)
 
 You can navigate to various resources from the sidebar.
 
