@@ -26,7 +26,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <li>🙋‍♂️ Getting started with contributing to a repository can seem daunting at first, but it's actually quite simple</li>
 <li>💬 This guideline will provide information on the project's code of conduct, coding standards, and any specific instructions for submitting pull requests.</li>
 <li>😮 Before making any changes, it's important to familiarize yourself with the repository's contributing guidelines.</li>
-<li>👉 To get started with contributing to this project, see <a href="./Contributing.md">Contributing.md</a></li>
+<li>👉 To get started with contributing to this project, see <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/README.md">Contributing.md</a></li>
 <li>🤩 Follow the instructions given in the file above <strong><em>check issues-fork this repo-create a PR</em><strong> </li>
 <li>🏆 After this, the maintainers will review the PR and will merge it if it helps move the Open-Source-With-Hasnain project forward</li> 
 <li>👨‍🎓 Otherwise, you will be given constructive feedback and suggestions for the changes needed to add to the PR to the codebase</li>
