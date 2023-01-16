@@ -80,8 +80,10 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-  
- ## Miscellaneous 🤟
+
+#### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
+
+## Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
   - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CHANGELOG.md)
   - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
