@@ -81,7 +81,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-#### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
+### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
 ## Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
