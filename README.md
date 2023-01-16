@@ -85,5 +85,5 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 ## Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
-  - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CHANGELOG.md)
+  - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
   - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
