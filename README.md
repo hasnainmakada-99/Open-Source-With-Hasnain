@@ -5,21 +5,21 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
+
 <h2>Welcome!👋 </h2>
+
 Welcome to the guide to open source! This repository is designed to provide resources for individuals new to the world of open source. This project is made for beginners to get started with open source. Whether you're from the fields of AI, ML, web development, or Android development, you'll find useful information and resources here to help you get started 🚀.
-<br><br>
+
 <h3><em>"Let's learn and grow together!" 🙌</em></h3>
-<br>
+
 <h2>Features ✍️</h2>
 <ul>
 <li>In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds</li> 
 <li>From beginner-friendly resources to resources on advanced topics and best practices, there's something for everyone</li> 
 <li>We also have a community of experienced open source contributors who are always willing to help and answer any questions you may have 😄</li>
 </ul>
-<br>
-<h3>We encourage you to explore our repository, ask questions, and get involved in the open source community 💥<br><br>
-<br>
 
+<h3>We encourage you to explore our repository, ask questions, and get involved in the open source community 💥<br>
 
 <h2>Getting Started 💪</h2>
 <ul>
@@ -34,10 +34,9 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <li>🥇 You are now ready to contribute. All the best!</li>
 </ul>
 
-<br><br>
 <h2>Resources 📚</h2>
 
-You can navigate to various resources from the sidebar.
+<h3>You can navigate to various resources from the sidebar.</h3>
 
 ## Contact 🗨️
 > For any queries regarding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
