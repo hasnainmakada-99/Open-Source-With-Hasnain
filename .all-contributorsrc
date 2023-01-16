@@ -104,6 +104,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "the-amazing-atharva",
+      "name": "Atharva Salitri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121221252?v=4",
+      "profile": "https://github.com/the-amazing-atharva",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
