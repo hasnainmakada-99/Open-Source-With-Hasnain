@@ -6,7 +6,7 @@
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
 
-<h2>Welcome!👋 </h2>
+<h2>Welcome!👋</h2>
 
 Welcome to the guide to open source! This repository is designed to provide resources for individuals new to the world of open source. This project is made for beginners to get started with open source. Whether you're from the fields of AI, ML, web development, or Android development, you'll find useful information and resources here to help you get started 🚀.
 
@@ -23,14 +23,14 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 <h2>Getting Started 💪</h2>
 <ul>
-<li>🙋‍♂️ Getting started with contributing to a repository can seem daunting at first, but it's actually quite simple</li>
+<li>🙋‍♂️ Getting started with contributing to a repository can seem daunting at first, but it's actually quite simple.</li>
 <li>💬 This guideline will provide information on the project's code of conduct, coding standards, and any specific instructions for submitting pull requests.</li>
 <li>😮 Before making any changes, it's important to familiarize yourself with the repository's contributing guidelines.</li>
 <li>👉 To get started with contributing to this project, see <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/README.md">Contributing.md</a></li>
-<li>🤩 Follow the instructions given in the file above <strong><em>check issues-fork this repo-create a PR</em><strong> </li>
+<li>🤩 Follow the instructions given in the file above <strong><em>check issues-fork this repo-create a PR.</em><strong> </li>
 <li>🏆 After this, the maintainers will review the PR and will merge it if it helps move the Open-Source-With-Hasnain project forward</li> 
-<li>👨‍🎓 Otherwise, you will be given constructive feedback and suggestions for the changes needed to add to the PR to the codebase</li>
-<li>😇 Once you've submitted a pull request, be open to feedback from the repository maintainers</li>
+<li>👨‍🎓 Otherwise, you will be given constructive feedback and suggestions for the changes needed to add to the PR to the codebase.</li>
+<li>😇 Once you've submitted a pull request, be open to feedback from the repository maintainers.</li>
 <li>🥇 You are now ready to contribute. All the best!</li>
 </ul>
 
@@ -39,7 +39,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <h3>You can navigate to various resources from the sidebar.</h3>
 
 ## Contact 🗨️
-> For any queries regarding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
+> For any queries regarding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada).
   
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
@@ -84,6 +84,6 @@ Welcome to the guide to open source! This repository is designed to provide reso
 ### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
 ## Miscellaneous 🤟
-Do consider looking at other paradigms of this documentation
+Do consider looking at other paradigms of this documentation:
   - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
   - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
