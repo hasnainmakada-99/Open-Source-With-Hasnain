@@ -24,7 +24,7 @@
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. Artificial neural network  | <center> [![Artificial neural network ](https://i.ytimg.com/vi/g9coqhm5CUM/mqdefault.jpg "Artificial Neural Network ")](https://youtube.com/playlist?list=PLhdVEDm7SZ-PdtzOkXWb6xyAPxFInnpx- "Artificial neural Network ") <center>  | [Here you go](https://youtube.com/playlist?list=PLhdVEDm7SZ-PdtzOkXWb6xyAPxFInnpx-)
-|  2. Support Vector Machine  | <center> [![Support Vector Machine ](https://i.ytimg.com/vi/ugTxMLjLS8M/mqdefault.jpg "Support Vector Machine ")](https://youtube.com/playlist?list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL"Support Vector Machine ") <center>  | [Here you go](https://youtube.com/playlist?list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL)
+|  2. Support Vector Machine  | <center> [![Support Vector Machine](https://i.ytimg.com/vi/ugTxMLjLS8M/mqdefault.jpg "Support Vector Machine")](https://youtube.com/playlist?list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL "Support Vector Machine ") <center>  | [Here you go](https://youtube.com/playlist?list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL)
 |  3. Decision-making  | <center> [![Decision Making ](https://i.ytimg.com/vi/qDcl-FRnwSU/mqdefault.jpg "Decision Making ")](https://youtu.be/qDcl-FRnwSU "Decision-making ") <center>  | [Here you go](https://youtu.be/qDcl-FRnwSU)
 |  4. Logistic regression  | <center> [![Logistic regression ](https://i.ytimg.com/vi/XnOAdxOWXWg/mqdefault.jpg "Logistic regression ")](https://youtu.be/XnOAdxOWXWg "Logistic regression ") <center>  | [Here you go](https://youtu.be/XnOAdxOWXWg)
 |  5. Linear regression  | <center> [![Linear regression ](https://i.ytimg.com/vi/NUXdtN1W1FE/mqdefault.jpg "Linear regression ")](https://youtu.be/NUXdtN1W1FE "Linear regression ") <center>  | [Here you go](https://youtu.be/NUXdtN1W1FE)
@@ -55,7 +55,7 @@
 
 
 ---
-## Storing files in Git  and    ###Github.
+## Storing files in Git and Github.
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. Complete Git and GitHub Tutorial | <center> [![Complete Git and GitHub Tutorial](https://i.ytimg.com/vi/apGV9Kg7ics/mqdefault.jpg "Complete Git and GitHub Tutorial")](https://www.youtube.com/watch?v=apGV9Kg7ics "Complete Git and GitHub Tutorial") <center>  | [Here you go](https://www.youtube.com/watch?v=apGV9Kg7ics)
