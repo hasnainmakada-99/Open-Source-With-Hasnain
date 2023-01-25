@@ -85,9 +85,6 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 ### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
-### Our star history till date
-<img src="https://api.star-history.com/svg?repos=hasnainmakada-99/Open-Source-With-Hasnain&type=Date" width="370" height="300"/>
-
 ## Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
   - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
