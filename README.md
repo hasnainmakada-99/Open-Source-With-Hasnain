@@ -3,7 +3,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <center><h3><b>Made for the community, by the community ❤️<b></h3></center>
@@ -67,6 +67,11 @@ Welcome to the guide to open source! This repository is designed to provide reso
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vaibhavx42"><img src="https://avatars.githubusercontent.com/u/110530263?v=4?s=100" width="100px;" alt="vaibhavx42"/><br /><sub><b>vaibhavx42</b></sub></a><br /><a href="#tutorial-vaibhavx42" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/miraz-mondal"><img src="https://avatars.githubusercontent.com/u/89645073?v=4?s=100" width="100px;" alt="Miraz Mondal"/><br /><sub><b>Miraz Mondal</b></sub></a><br /><a href="#design-miraz-mondal" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/the-amazing-atharva"><img src="https://avatars.githubusercontent.com/u/121221252?v=4?s=100" width="100px;" alt="Atharva Salitri"/><br /><sub><b>Atharva Salitri</b></sub></a><br /><a href="#ideas-the-amazing-atharva" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abinash1234"><img src="https://avatars.githubusercontent.com/u/89697294?v=4?s=100" width="100px;" alt="Abinash Mahapatra"/><br /><sub><b>Abinash Mahapatra</b></sub></a><br /><a href="#tutorial-Abinash-bit" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vedeesh6"><img src="https://avatars.githubusercontent.com/u/88491153?v=4?s=100" width="100px;" alt="Vedeesh Dwivedi"/><br /><sub><b>Vedeesh Dwivedi</b></sub></a><br /><a href="#tutorial-Vedeesh6" title="Tutorials">✅</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/rishav.raj"><img src="https://avatars.githubusercontent.com/u/97666287?v=4?s=100" width="100px;" alt="Rishav Raj"/><br /><sub><b>Rishav Raj</b></sub></a><br /><a href="#tutorial-Rishav1707" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
