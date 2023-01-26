@@ -4,13 +4,13 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<center><h3><b>Made for the community, by the community ❤️<b></h3></center>
+<h3 align="center"><b>Made for the community, by the community ❤️<b></h3>
 
 <h2>Welcome!👋</h2>
 
 Welcome to the guide to open source! This repository is designed to provide resources for individuals new to the world of open source. This project is made for beginners to get started with open source. Whether you're from the fields of AI, ML, web development, or Android development, you'll find useful information and resources here to help you get started 🚀.
 
-<h3><em>"Let's learn and grow together!" 🙌</em></h3>
+<h3 align="center"><em>"Let's learn and grow together!" 🙌</em></h3>
 
 <h2>Features ✍️</h2>
 <ul>
