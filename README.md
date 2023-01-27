@@ -1,9 +1,14 @@
-<div style="display:flex; justify-content: center;  align-items: center;    padding: 20px 15px;">
-<img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png" >
+<div style="display:flex; flex-direction: column; justify-content: center;  align-items: center;    padding: 20px 15px;">
+<svg width="255" height="248" viewBox="0 0 255 248" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M91.8065 241.252C90.4687 245.462 85.9589 247.815 81.8405 246.215C56.1029 236.215 34.2491 218.063 19.6951 194.428C3.73904 168.515 -2.38209 137.734 2.44592 107.688C7.27394 77.6426 22.7301 50.3292 46.001 30.7198C69.272 11.1105 98.8105 0.509026 129.24 0.845085C159.669 1.18114 188.966 12.4324 211.799 32.5509C234.631 52.6694 249.48 80.3175 253.643 110.463C257.807 140.608 251.007 171.246 234.483 196.8C219.41 220.108 197.161 237.773 171.209 247.202C167.056 248.711 162.599 246.259 161.355 242.02L139.288 166.846C138.044 162.607 140.549 158.239 144.36 156.004C148.726 153.442 152.47 149.881 155.259 145.569C159.507 138.999 161.256 131.121 160.185 123.37C159.115 115.619 155.297 108.51 149.426 103.337C143.555 98.1638 136.022 95.2709 128.198 95.1844C120.374 95.098 112.779 97.8239 106.795 102.866C100.812 107.908 96.8375 114.931 95.5961 122.657C94.3547 130.382 95.9286 138.297 100.031 144.959C102.724 149.332 106.388 152.975 110.697 155.632C114.457 157.951 116.866 162.373 115.528 166.584L91.8065 241.252Z" fill="currentColor"/>
+</svg>
+<h1 style="font-weight:700; font-size: 3rem;">Open Source with Hasnain</h1>
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h3 align="center"><b>Made for the community, by the community ❤️<b></h3>
@@ -41,9 +46,10 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <h3>You can navigate to various resources from the sidebar.</h3>
 
 ## Contact 🗨️
+
 > For any queries regarding to this project, you can reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
-  
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg 'Open In Gitpod')](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
 ## Thank you so much to this awesome contributors 🚀🚀🚀
 
@@ -91,6 +97,8 @@ Welcome to the guide to open source! This repository is designed to provide reso
 ### If you liked my project, make sure to give this project a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
 ## Miscellaneous 🤟
+
 Do consider looking at other paradigms of this documentation
-  - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
-  - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
+
+-   [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
+-   [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
