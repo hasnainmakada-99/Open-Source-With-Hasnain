@@ -1,5 +1,5 @@
 <div style="display:flex; justify-content: center;  align-items: center;    padding: 20px 15px;">
-<img src="https://user-images.githubusercontent.com/82728823/196099813-b9a84d20-0388-4f19-99b6-817ef483db82.png" >
+<img src="https://ik.imagekit.io/1cw2zpbjy/OSWH/New_Project_header.png?ik-sdk-version=javascript-1.4.3&updatedAt=1674799323135" >
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
