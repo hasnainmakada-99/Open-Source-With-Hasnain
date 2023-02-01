@@ -3,7 +3,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h3 align="center"><b>Made for the community, by the community ❤️<b></h3>
@@ -72,6 +72,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/rishav.raj"><img src="https://avatars.githubusercontent.com/u/97666287?v=4?s=100" width="100px;" alt="Rishav Raj"/><br /><sub><b>Rishav Raj</b></sub></a><br /><a href="#tutorial-Rishav1707" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Faizan-omer"><img src="https://avatars.githubusercontent.com/u/79092065?v=4?s=100" width="100px;" alt="Faizan Omer"/><br /><sub><b>Faizan Omer</b></sub></a><br /><a href="#tutorial-Faizan-omer" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
