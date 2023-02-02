@@ -149,6 +149,15 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "iqrafirdose",
+      "name": "Iqra Firdose ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114678694?v=4",
+      "profile": "https://github.com/iqrafirdose",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
