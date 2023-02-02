@@ -6,15 +6,15 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<h3 align="center"><b>Made for the community, by the community ❤️<b></h3>
+<h2 align="center"><b>Made for the community, by the community ❤️<b></h3>
 
-<h2>Welcome!👋 </h2>
+<h3>Welcome!👋 </h2>
 
 Welcome to the guide to open source! This repository is designed to provide resources for individuals new to the world of open source. This project is made for beginners to get started with open source. Whether you're from the fields of AI, ML, web development, or Android development, you'll find useful information and resources here to help you get started 🚀.
 
-<h3 align="center"><em>"Let's learn and grow together!" 🙌</em></h3>
+<h2 align="center"><em>"Let's learn and grow together!" 🙌</em></h3>
 
-<h2>Features ✍️</h2>
+<h3>Features ✍️</h2>
 <ul>
 <li>In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds</li> 
 <li>From beginner-friendly resources to resources on advanced topics and best practices, there's something for everyone</li> 
@@ -23,7 +23,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 <h3>We encourage you to explore our repository, ask questions, and get involved in the open source community 💥<br>
 
-<h2>Getting Started 💪</h2>
+<h3>Getting Started 💪</h2>
 <ul>
 <li>🙋‍♂️ Getting started with contributing to a repository can seem daunting at first, but it's actually quite simple</li>
 <li>💬 This guideline will provide information on the project's code of conduct, coding standards, and any specific instructions for submitting pull requests.</li>
@@ -36,7 +36,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 <li>🥇 You are now ready to contribute. All the best!</li>
 </ul>
 
-<h2>Resources 📚</h2>
+<h3>Resources 📚</h2>
 
 <h3>You can navigate to various resources from the sidebar.</h3>
 
@@ -92,7 +92,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 ### If you liked my project, make sure to give a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
-## Miscellaneous 🤟
+### Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
   - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
   - [Code Of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
