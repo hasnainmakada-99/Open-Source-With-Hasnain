@@ -3,7 +3,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h2 align="center"><b>Made for the community, by the community ❤️<b></h3>
@@ -74,6 +74,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
       <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/rishav.raj"><img src="https://avatars.githubusercontent.com/u/97666287?v=4?s=100" width="100px;" alt="Rishav Raj"/><br /><sub><b>Rishav Raj</b></sub></a><br /><a href="#tutorial-Rishav1707" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Faizan-omer"><img src="https://avatars.githubusercontent.com/u/79092065?v=4?s=100" width="100px;" alt="Faizan Omer"/><br /><sub><b>Faizan Omer</b></sub></a><br /><a href="#tutorial-Faizan-omer" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/iqrafirdose"><img src="https://avatars.githubusercontent.com/u/114678694?v=4?s=100" width="100px;" alt="Iqra Firdose "/><br /><sub><b>Iqra Firdose </b></sub></a><br /><a href="#maintenance-iqrafirdose" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alaminrifat"><img src="https://avatars.githubusercontent.com/u/61446438?v=4?s=100" width="100px;" alt="Muhammad Al Amin Rifat"/><br /><sub><b>Muhammad Al Amin Rifat</b></sub></a><br /><a href="#tutorial-alaminrifat" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>

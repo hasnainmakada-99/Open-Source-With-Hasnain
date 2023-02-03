@@ -158,6 +158,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "alaminrifat",
+      "name": "Muhammad Al Amin Rifat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61446438?v=4",
+      "profile": "https://github.com/alaminrifat",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
