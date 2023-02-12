@@ -1,0 +1,18 @@
+on:
+  push:
+    branches:
+      - "main"
+jobs:
+  pushtodocker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Docker Code
+        uses: actions/checkout@v1
+      - run: docker build -t hasnainmakada/oswh .
+      - name: Dockerize
+        if: success()
+        uses: manusa/actions-publish-docker@v1.1.2
+        with:
+          name: hasnainmakada/oswh
+          username: ${{ secrets.DOCKER_HUB_USER }}
+          password: ${{ secrets.DOCKER_HUB_PASSWORD }}
