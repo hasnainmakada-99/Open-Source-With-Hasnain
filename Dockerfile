@@ -1,17 +1,22 @@
-# Using the node alpine image
-FROM node:alpine
+# Use the official Node.js 16 image
+FROM node:16-alpine
 
-# Taking the current directory
-WORKDIR /
+# Set the working directory to /app
+WORKDIR /app
 
-# Installing the docsify CLI
+# Copy the package.json and package-lock.json files to the container
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
 RUN npm install -g docsify-cli@latest
 
-# Copying all the directory contents
+# Copy the Docsify files to the container
 COPY . .
 
-# Exposing the port to 3000
+# Expose the port that Docsify runs on
 EXPOSE 3000
 
-# Setting the entry point
-ENTRYPOINT docsify serve .
+# Start Docsify when the container is run
+CMD ["docsify", "serve", "."]

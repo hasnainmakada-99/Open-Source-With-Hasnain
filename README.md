@@ -93,6 +93,11 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 ### If you liked my project, make sure to give a star :star:, It really motivates us to provide better opportunities for other people to get started with open source.
 
+## To get started running this project locally using docker
+
+1. **RUN** `docker pull hasnainmakada/oswh`
+2. **After pulling RUN** `docker run -d -p 4000:3000 --name oswh  hasnainmakada/oswh`
+
 ### Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
   - [Change-logs](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/CHANGELOG.md)
