@@ -1,3 +1,4 @@
+name: Greet Contributors
 on:
   fork:
   push:
