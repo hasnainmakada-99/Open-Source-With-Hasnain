@@ -45,6 +45,9 @@ Welcome to the guide to open source! This repository is designed to provide reso
   
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
+## Join the Discord Server
+[![discord](https://ik.imagekit.io/1cw2zpbjy/OSWH/Discord_Button.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677645620390 "Join the server")](https://discord.gg/nfY8kXPm)
+  
 ## Thank you so much to this awesome contributors 🚀🚀🚀
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
