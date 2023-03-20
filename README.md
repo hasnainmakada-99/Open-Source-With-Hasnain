@@ -3,7 +3,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <h2 align="center"><b>Made for the community, by the community ❤️<b></h3>
@@ -76,6 +76,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/iqrafirdose"><img src="https://avatars.githubusercontent.com/u/114678694?v=4?s=100" width="100px;" alt="Iqra Firdose "/><br /><sub><b>Iqra Firdose </b></sub></a><br /><a href="#maintenance-iqrafirdose" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alaminrifat"><img src="https://avatars.githubusercontent.com/u/61446438?v=4?s=100" width="100px;" alt="Muhammad Al Amin Rifat"/><br /><sub><b>Muhammad Al Amin Rifat</b></sub></a><br /><a href="#tutorial-alaminrifat" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gabrysia97"><img src="https://avatars.githubusercontent.com/u/97764356?v=4?s=100" width="100px;" alt="Gabriela"/><br /><sub><b>Gabriela</b></sub></a><br /><a href="#tutorial-gabrysia97" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/munnokd"><img src="https://avatars.githubusercontent.com/u/81804004?v=4?s=100" width="100px;" alt="Kalp Prajapati"/><br /><sub><b>Kalp Prajapati</b></sub></a><br /><a href="#tutorial-munnokd" title="Tutorials">✅</a></td>
     </tr>
   </tbody>
 </table>
