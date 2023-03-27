@@ -99,6 +99,7 @@ Welcome to the guide to open source! This repository is designed to provide reso
 
 1. **RUN** `docker pull hasnainmakada/oswh`
 2. **After pulling RUN** `docker run -d -p 4000:3000 --name oswh  hasnainmakada/oswh`
+3. **Just for testing Azure**
 
 ### Miscellaneous 🤟
 Do consider looking at other paradigms of this documentation
