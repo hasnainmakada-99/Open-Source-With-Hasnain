@@ -37,7 +37,7 @@
 </a>
 
 ## 📝 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT licence](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENCE).
 
 
 ## 💬 Get in touch
