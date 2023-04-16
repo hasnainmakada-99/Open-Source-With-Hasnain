@@ -185,6 +185,15 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "bajibpathan",
+      "name": "bajibpathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130319765?v=4",
+      "profile": "https://github.com/bajibpathan",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
