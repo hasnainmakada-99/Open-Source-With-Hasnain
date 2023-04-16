@@ -12,7 +12,7 @@
   A collection of resources for learning and contributing to open source projects, curated by the community.
 </p>
 
-<h3 align="center">This is hosted at <a href="https://oswh.tech">oswh.tech</a></h3>
+<h3 align="center">This repo is hosted at <a href="https://oswh.tech">oswh.tech</a></h3>
 
 ## 🚀 Quick Start
 
