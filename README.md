@@ -9,7 +9,7 @@
 </p>
 <h1 align="center"><b>Open Source With Hasnain</b></h2>
 <p align="center">
-  A collection of resources for learning and contributing to open source projects, curated by the community.
+  A collection of resources for learning and contributing to open source projects, curated by the community :heart:.
 </p>
 
 <h3 align="center">This repo is hosted at <a href="https://oswh.tech">oswh.tech</a></h3>
