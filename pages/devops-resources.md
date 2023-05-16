@@ -25,6 +25,7 @@
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. AWS certified cloud practitioner full course by<br>freecodecamp  | <center> [![AWS cloud practitioner (freecodecamp) ](https://i.ytimg.com/vi/SOTamWNgDKc/mqdefault.jpg "AWS cloud practitioner (freecodecamp) ")](https://www.youtube.com/watch?v=SOTamWNgDKc "AWS cloud practitioner (freecodecamp) ") <center>  | [Here you go](https://www.youtube.com/watch?v=SOTamWNgDKc)
+|  2. Cloud Computing Full Course By<br>Edureka! | <center> [![Cloud Computing Full Course (Edureka!) ](https://i.ytimg.com/vi/2LaAJq1lB1Q/mqdefault.jpg "Cloud Computing Full Course (Edureka!)")](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=115s "Cloud Computing Full Course (Edureka!)") <center>  | [Here you go](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=115s)
 ---
 ## Docker
 |Description | Preview   | Link to get started with it   |
