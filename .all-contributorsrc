@@ -194,6 +194,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mhdamaan79",
+      "name": "Mohd Amaan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118375524?v=4",
+      "profile": "https://linkfree.io/mhdamaan79",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
