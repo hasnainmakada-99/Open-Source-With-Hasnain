@@ -25,6 +25,7 @@
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. AWS certified cloud practitioner full course by<br>freecodecamp  | <center> [![AWS cloud practitioner (freecodecamp) ](https://i.ytimg.com/vi/SOTamWNgDKc/mqdefault.jpg "AWS cloud practitioner (freecodecamp) ")](https://www.youtube.com/watch?v=SOTamWNgDKc "AWS cloud practitioner (freecodecamp) ") <center>  | [Here you go](https://www.youtube.com/watch?v=SOTamWNgDKc)
+|  2. Cloud Computing Full Course By<br>Edureka! | <center> [![Cloud Computing Full Course (Edureka!) ](https://i.ytimg.com/vi/2LaAJq1lB1Q/mqdefault.jpg "Cloud Computing Full Course (Edureka!)")](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=115s "Cloud Computing Full Course (Edureka!)") <center>  | [Here you go](https://www.youtube.com/watch?v=2LaAJq1lB1Q&t=115s)
 ---
 ## Docker
 |Description | Preview   | Link to get started with it   |
@@ -111,3 +112,4 @@
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. 90 Days of DevOps - Roadmap  | <center> [![open source](https://ik.imagekit.io/1cw2zpbjy/OSWH/Getting_started_with_DevOps_-_Banner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667725617154 "DevOps")](https://github.com/MichaelCade/90DaysOfDevOps "90 Days of DevOps - Roadmap") </center> |   [Here you go](https://github.com/MichaelCade/90DaysOfDevOps)
+|  2. DevOps Learning Hub: Tools and Tech - Pradumna Saraf  | <center> [![open source](https://ik.imagekit.io/hfclyehqd/OS_Bag/DevOps_-_Pradumnasaraf.jpeg?updatedAt=1684313490774 "DevOps")](https://github.com/Pradumnasaraf/DevOps "DevOps Learning Hub: Tools and Tech - Pradumna Saraf") </center> |   [Here you go](https://github.com/Pradumnasaraf/DevOps)
