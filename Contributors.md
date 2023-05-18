@@ -33,6 +33,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/munnokd"><img src="https://avatars.githubusercontent.com/u/81804004?v=4?s=100" width="100px;" alt="Kalp Prajapati"/><br /><sub><b>Kalp Prajapati</b></sub></a><br /><a href="#tutorial-munnokd" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bajibpathan"><img src="https://avatars.githubusercontent.com/u/130319765?v=4?s=100" width="100px;" alt="bajibpathan"/><br /><sub><b>bajibpathan</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=bajibpathan" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://linkfree.io/mhdamaan79"><img src="https://avatars.githubusercontent.com/u/118375524?v=4?s=100" width="100px;" alt="Mohd Amaan"/><br /><sub><b>Mohd Amaan</b></sub></a><br /><a href="#tutorial-mhdamaan79" title="Tutorials">✅</a></td>
+    </tr>
   </tbody>
 </table>
 
