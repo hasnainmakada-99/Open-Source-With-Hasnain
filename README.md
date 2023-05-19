@@ -6,6 +6,9 @@
   <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues"><img src="https://img.shields.io/github/issues/hasnainmakada-99/Open-Source-With-Hasnain" alt="Issues"></a>
   <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pulls"><img src="https://img.shields.io/github/issues-pr/hasnainmakada-99/Open-Source-With-Hasnain" alt="Pull Requests"></a>
   <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/graphs/contributors"><img src="https://img.shields.io/github/contributors/hasnainmakada-99/Open-Source-With-Hasnain" alt="Contributors"></a>
+  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain">
+  <img src="https://img.shields.io/github/stars/hasnainmakada-99/Open-Source-With-Hasnain?style=social" alt="Stars"/>
+  </a>
 </p>
 <h1 align="center"><b>Open Source With Hasnain</b></h2>
 <p align="center">
