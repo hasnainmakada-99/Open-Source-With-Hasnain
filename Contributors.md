@@ -35,6 +35,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://linkfree.io/mhdamaan79"><img src="https://avatars.githubusercontent.com/u/118375524?v=4?s=100" width="100px;" alt="Mohd Amaan"/><br /><sub><b>Mohd Amaan</b></sub></a><br /><a href="#tutorial-mhdamaan79" title="Tutorials">✅</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/at-the-vr"><img src="https://avatars.githubusercontent.com/u/88548999?v=4?s=100" width="100px;" alt="Atharva Pise"/><br /><sub><b>Atharva Pise</b></sub></a><br /><a href="#maintenance-at-the-vr" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>

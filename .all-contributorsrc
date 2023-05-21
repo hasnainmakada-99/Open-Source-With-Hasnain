@@ -203,6 +203,15 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "at-the-vr",
+      "name": "Atharva Pise",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88548999?v=4",
+      "profile": "https://github.com/at-the-vr",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
