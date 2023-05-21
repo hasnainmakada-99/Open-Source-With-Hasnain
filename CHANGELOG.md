@@ -1,3 +1,50 @@
+#### 1.1.0 (2023-05-\*\*)
+
+##### Documentation Changes
+
+- update .all-contributorsrc [skip ci] ([803751a8](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/803751a8fc5f76b6192fabb245a092e85f435e57))
+- update Contributors.md [skip ci] ([00f7e68d](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/00f7e68d91e553257e71098d4c2c3c5a4e06d9be))
+- update .all-contributorsrc [skip ci] ([c71d6f76](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/c71d6f7664966b58e68098197d54af846da660bb))
+- update Contributors.md [skip ci] ([2d5f42cf](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/2d5f42cf87aeccf49a3165426e34a79a0ecf0360))
+- update .all-contributorsrc [skip ci] ([39ee3c0c](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/39ee3c0cf3b4084b656008cc1214308963cdb20a))
+- update README.md [skip ci] ([3f41352e](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/3f41352eec838bac15fe6e0ba66e645ed05464a4))
+- update .all-contributorsrc [skip ci] ([aa9e64c8](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/aa9e64c85ff5f37a69946c517e57f8ecf02685f9))
+- update README.md [skip ci] ([9377f8c2](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/9377f8c213ead2bd272cd4ca218b21c7cfbd7c76))
+- update .all-contributorsrc [skip ci] ([39ade9d9](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/39ade9d9e2f8f57dd38158f6f0120ab262cc2a85))
+- update README.md [skip ci] ([bb1123b2](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/bb1123b2c68e7fe466bb27999ceacee273f553a8))
+- update .all-contributorsrc [skip ci] ([9c67af2d](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/9c67af2dd93dc30e5900bd8e69278d67e226f33c))
+- update README.md [skip ci] ([615e8aa1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/615e8aa1f4827a5ae59fa42be58feb3bd72acd4f))
+- update .all-contributorsrc [skip ci] ([62ffbc87](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/62ffbc87d8465795ed7cb1f3c3104a413df36650))
+- update README.md [skip ci] ([8418af35](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/8418af356c13515c77831b7eade8463b6f05ba83))
+
+##### Bug Fixes
+
+- fix type in README.md ([516036b4](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/516036b4d419c9c151b69875539c0f8d20055958))
+- update typo in README.md ([cdcad137](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/cdcad137a3c9484e807d7ff5261250166c6179b8))
+- add discord link in navbar ([a3f290e4](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/a3f290e468f87da5364613551794ea9f0796cdeb))
+
+##### Other Changes
+
+- add Stars badge in README.md ([14d4c197](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/14d4c197d6836227d3b56ee0e65d022b12602783))
+- add issue template ([8d4f5a10](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/8d4f5a10c9049bbe87f6f6a67ac7b80a9ed5e107))
+- add OG cover ([7c5b3e2c](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/7c5b3e2cac99d51878cfba06cced21e33d512309))
+- add link to licence ([2d50ee96](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/2d50ee96f06dd7c662fd62a1f8333d60040ab49a))
+- update .all-contributorssrc ([4d91cd3b](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/4d91cd3b74c588a3279bd1e85c4e33bc4ae57a9d))
+- separated the contributors list from README.md ([4216fdd1](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/4216fdd1bc841c67c5e2d929cca93b25f7b446f5))
+- add URL link in main README.md ([ede99336](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/ede99336d3f5bf6ff275df60b978b411a5e628c5))
+- update CNAME ([3d1cf8fb](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/3d1cf8fbeff7530aebf2c898786159ff84d4e9b5))
+- add docsify plugin for Full text search ([491cfe51](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/491cfe518cb4fd099ccd84e5de906ec80c39c531))
+- add Link on how to add resources ([bd57f0c4](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/bd57f0c4b7d545241a16b8ca6aac9769fe23eec7))
+- add Custom Navbar to star and join our discord ([ebdcd331](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/ebdcd331bb2c2c8f6d6d7dd5642717dcc49844e3))
+- add Discord server link ([425ddb17](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/425ddb1768a603146c94ca80e7fc7578ed1bca82))
+- update README.md, Dockerfile and Docker workflow ([8dc5d405](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/8dc5d40503c4a07e4a9a7af0b44e1e7888353a55))
+- add name to greet contributors workflow ([eb231c47](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/eb231c47a660bd7c65ce29f76b6d6a2cc4211efa))
+- add Open source blog in open source resources ([5c4d20cd](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/5c4d20cdcecf1c1e325dc50448d4773d760756c7))
+- update meta content for index.html ([aeea3644](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/aeea3644de7935f1d76ffd1001d3e06a8edab0ea))
+- change some headers to H2 and some to H3 in README.md ([d3b6b068](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/d3b6b06866326b4738ad809d003679b0bc245790))
+- update version number in package.json ([258ed79e](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/258ed79ee3ccc1524a2f577f9fed814105a0e478))
+- update FavIcon ([48e964d0](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/48e964d0281454c4e63ed8dd8815d873eb76b7e8))
+
 #### 1.0.0 (2023-01-28)
 
 ##### Documentation Changes
