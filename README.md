@@ -36,7 +36,7 @@
 ## 🎉 The awesome people who made this happen
 
 <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=hasnainmakada-99/Open-Source-With-Hasnain&max=100" />
+  <img src="https://contributors-img.web.app/image?repo=hasnainmakada-99/Open-Source-With-Hasnain"/>
 </a>
 
 ## 📝 License
