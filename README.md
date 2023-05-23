@@ -21,11 +21,19 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
-[Contributing guidelines](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/Contributing.md)
+✍️ [Contributing guidelines](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/Contributing.md)
 
-[Code of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
+📃 [Code of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
 
-## Features ✍️
+## How to Contribute
+
+:bug: [Submitting bug reports](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) - If you notice any unusual activity inside this project, please report to us 
+
+:memo: [Adding Resources](https://oswh.tech/#/how-to-add-resources) - If you think that we are missing any crucial resource which could be helpful for beginners, feel free to add it
+
+:technologist: [Developing new features](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues) - If have any new ideas in your mind which you would like to implement, Feel free to raise them or reach out the maitainers at [Discord](https://discord.gg/d3uzRXFG9h) 
+
+## Features 💡
 
 - In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds
 
@@ -49,5 +57,5 @@ If you have any questions or suggestions, feel free to [open an issue](https://g
 
 You can also reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
 
-<h2 align="center">Don't forget to ⭐ this repo</h2>
+<h2 align="center">Don't forget to ⭐ this repo 😊</h2>
 
