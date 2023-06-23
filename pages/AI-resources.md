@@ -41,11 +41,10 @@
 |  16. Boosting  | <center> [![Boosting ](https://i.ytimg.com/vi/kho6oANGu_A/mqdefault.jpg "Boosting ")](https://youtu.be/kho6oANGu_A "Boosting ") <center>  | [Here you go](https://youtu.be/kho6oANGu_A)
 |  17. Ensemble learning   | <center> [![Ensemble learning  ](https://i.ytimg.com/vi/WtWxOhhZWX0/mqdefault.jpg "Ensemble learning  ")](https://youtu.be/WtWxOhhZWX0 "Ensemble learning  ") <center>  | [Here you go](https://youtu.be/WtWxOhhZWX0)
 |  18. Stochastic gradient descent  | <center> [![Stochastic gradient descent ](https://i.ytimg.com/vi/YrEMPoWQRoE/mqdefault.jpg "Stochastic gradient descent ")](https://youtu.be/YrEMPoWQRoE "Stochastic gradient descent ") <center>  | [Here you go](https://youtu.be/YrEMPoWQRoE)
-|  19. Polynomial regression | <center> [![Polynomial regression ](https://i.ytimg.com/vi/H8kocPOT5v0/mqdefault.jpg "Polynomial regression ")](https://youtu.be/H8kocPOT5v0 "Polynomial regression ") <center>  | [Here you go](https://youtu.be/H8kocPOT5v0)
-
+|  19. Polynomial regression | <center> [![Polynomial regression ](https://i.ytimg.com/vi/H8kocPOT5v0/mqdefault.jpg "Polynomial regression ")](https://youtu.be/H8kocPOT5v0 "Polynomial regression ") <center>  | [Here you go](https://youtu.be/H8kocPOT5v0) 
+|  20. Neural Network | <center> [![Artificial Neural Network ](https://i.ytimg.com/vi/Rs_rAxEsAvI/mqdefault.jpg "Artificial Neural Network ")](https://youtu.be/H8kocPOT5v0 "Artificial Neural Network ") <center>  | [Here you go](https://youtu.be/Rs_rAxEsAvI) 
 ---
 
----
 ## Deploying ML and AI Models.
 
 |Description | Preview   | Link to get started with it   |
@@ -61,4 +60,14 @@
 |  1. Complete Git and GitHub Tutorial | <center> [![Complete Git and GitHub Tutorial](https://i.ytimg.com/vi/apGV9Kg7ics/mqdefault.jpg "Complete Git and GitHub Tutorial")](https://www.youtube.com/watch?v=apGV9Kg7ics "Complete Git and GitHub Tutorial") <center>  | [Here you go](https://www.youtube.com/watch?v=apGV9Kg7ics)
 |  2. Git and GitHub crash course (freecodecamp) | <center> [![Git and GitHub crash course (freecodecamp)](https://i.ytimg.com/vi/RGOj5yH7evk/mqdefault.jpg "Git and GitHub crash course (freecodecamp)")](https://www.youtube.com/watch?v=RGOj5yH7evk "Git and GitHub crash course (freecodecamp)") <center>  | [Here you go](https://www.youtube.com/watch?v=RGOj5yH7evk)
 |  3. Git for Professionals (freecodecamp) | <center> [![Git for Professionals (freecodecamp)](https://i.ytimg.com/vi/Uszj_k0DGsg/mqdefault.jpg "Git for Professionals (freecodecamp)")](https://www.youtube.com/watch?v=Uszj_k0DGsg "Git for Professionals (freecodecamp)") <center>  | [Here you go](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+---
+
+## Problem Solving Challenges
+
+|Description | Preview   | Link to get started with it   |
+| :------------: | :------------: | :------------: |
+|  1. Google Hash Code 2020 | <center> [![Complete Git and GitHub Tutorial](https://i.ytimg.com/vi/Mewe008IGl0/mqdefault.jpg "Google Hash Code 2020")](https://www.youtube.com/watch?v=Mewe008IGl0 "Google Hash Code 2020") <center>  | [Here you go](https://www.youtube.com/watch?v=Mewe008IGl0)
+|  2. Google Hash Code Competition 2021 | <center> [![Google Hash Code Competition 2021](https://i.ytimg.com/vi/STIRFdfpIqQ/mqdefault.jpg "Google Hash Code Competition 2021")](https://www.youtube.com/watch?v=STIRFdfpIqQ "Google Hash Code Competition 2021") <center>  | [Here you go](https://www.youtube.com/watch?v=STIRFdfpIqQ)
+|  3. Hash code Google compition 2020 | <center> [![solving more pizza problem hash code google compition 2020](https://i.ytimg.com/vi/ubAKFBvV0pc/mqdefault.jpg "solving more pizza problem hash code google compition 2020")](https://www.youtube.com/watch?v=ubAKFBvV0pc "hash code google compition 2020 ") <center>  | [Here you go](https://www.youtube.com/watch?v=ubAKFBvV0pc)
+|  4. Traffic Signaling Problem Solution | <center> [![Traffic Signaling Problem Solution](https://i.ytimg.com/vi/B1gmKZZOHuY/mqdefault.jpg "Traffic Signaling Problem Solution")](https://www.youtube.com/watch?v=B1gmKZZOHuY "Traffic Signaling Problem Solution") <center>  | [Here you go](https://www.youtube.com/watch?v=B1gmKZZOHuY)
 ---
