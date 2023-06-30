@@ -62,3 +62,12 @@
 |  3. Git for Professionals (freecodecamp) | <center> [![Git for Professionals (freecodecamp)](https://i.ytimg.com/vi/Uszj_k0DGsg/mqdefault.jpg "Git for Professionals (freecodecamp)")](https://www.youtube.com/watch?v=Uszj_k0DGsg "Git for Professionals (freecodecamp)") <center>  | [Here you go](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 ---
 
+## Problem Solving Challenges
+
+|Description | Preview   | Link to get started with it   |
+| :------------: | :------------: | :------------: |
+|  1. Google Hash Code 2020 | <center> [![Complete Git and GitHub Tutorial](https://i.ytimg.com/vi/Mewe008IGl0/mqdefault.jpg "Google Hash Code 2020")](https://www.youtube.com/watch?v=Mewe008IGl0 "Google Hash Code 2020") <center>  | [Here you go](https://www.youtube.com/watch?v=Mewe008IGl0)
+|  2. Google Hash Code Competition 2021 | <center> [![Google Hash Code Competition 2021](https://i.ytimg.com/vi/STIRFdfpIqQ/mqdefault.jpg "Google Hash Code Competition 2021")](https://www.youtube.com/watch?v=STIRFdfpIqQ "Google Hash Code Competition 2021") <center>  | [Here you go](https://www.youtube.com/watch?v=STIRFdfpIqQ)
+|  3. Hash code Google compition 2020 | <center> [![solving more pizza problem hash code google compition 2020](https://i.ytimg.com/vi/ubAKFBvV0pc/mqdefault.jpg "solving more pizza problem hash code google compition 2020")](https://www.youtube.com/watch?v=ubAKFBvV0pc "hash code google compition 2020 ") <center>  | [Here you go](https://www.youtube.com/watch?v=ubAKFBvV0pc)
+|  4. Traffic Signaling Problem Solution | <center> [![Traffic Signaling Problem Solution](https://i.ytimg.com/vi/B1gmKZZOHuY/mqdefault.jpg "Traffic Signaling Problem Solution")](https://www.youtube.com/watch?v=B1gmKZZOHuY "Traffic Signaling Problem Solution") <center>  | [Here you go](https://www.youtube.com/watch?v=B1gmKZZOHuY)
+---
