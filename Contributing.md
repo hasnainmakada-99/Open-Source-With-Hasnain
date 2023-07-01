@@ -88,9 +88,7 @@ git push origin YourBranchName
 
 **_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the Open-Source-With-Hasnain project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
-## To run the project locally on your machine, check out the official documentation by [docsify](https://docsify.js.org/#/quickstart?id=quick-start)
-
----
+To run the project locally on your machine, check out the official documentation by [docsify](https://docsify.js.org/#/quickstart?id=quick-start)
 
 ## Issues
 
