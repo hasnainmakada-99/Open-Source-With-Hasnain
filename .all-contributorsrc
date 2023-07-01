@@ -212,6 +212,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "elidakirigo",
+      "name": "Elida (moon pie)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42931101?v=4",
+      "profile": "https://elidakirigo.bio.link/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -219,5 +228,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "Open-Source-With-Hasnain",
-  "projectOwner": "hasnainmakada-99"
+  "projectOwner": "hasnainmakada-99",
+  "commitType": "docs"
 }
