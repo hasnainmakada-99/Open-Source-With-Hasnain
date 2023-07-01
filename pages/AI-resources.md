@@ -42,7 +42,7 @@
 |  17. Ensemble learning   | <center> [![Ensemble learning  ](https://i.ytimg.com/vi/WtWxOhhZWX0/mqdefault.jpg "Ensemble learning  ")](https://youtu.be/WtWxOhhZWX0 "Ensemble learning  ") <center>  | [Here you go](https://youtu.be/WtWxOhhZWX0)
 |  18. Stochastic gradient descent  | <center> [![Stochastic gradient descent ](https://i.ytimg.com/vi/YrEMPoWQRoE/mqdefault.jpg "Stochastic gradient descent ")](https://youtu.be/YrEMPoWQRoE "Stochastic gradient descent ") <center>  | [Here you go](https://youtu.be/YrEMPoWQRoE)
 |  19. Polynomial regression | <center> [![Polynomial regression ](https://i.ytimg.com/vi/H8kocPOT5v0/mqdefault.jpg "Polynomial regression ")](https://youtu.be/H8kocPOT5v0 "Polynomial regression ") <center>  | [Here you go](https://youtu.be/H8kocPOT5v0)
-
+|  20. Neural Network | <center> [![Artificial Neural Network ](https://i.ytimg.com/vi/Rs_rAxEsAvI/mqdefault.jpg "Artificial Neural Network ")](https://youtu.be/H8kocPOT5v0 "Artificial Neural Network ") <center>  | [Here you go](https://youtu.be/Rs_rAxEsAvI) 
 ---
 
 ---
