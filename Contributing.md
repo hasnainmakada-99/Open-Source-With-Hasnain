@@ -9,6 +9,14 @@
 
 ---
 
+## Rules for Creating a PR (Pull Request)
+- Make sure that the issue which are going to solve is not assigned to any other contributor, If it is assigned then look out for other issues 😄
+- Don't just directly raise the PR without getting the issue assigned this may look like you are trying to spam the project 😠
+- Make sure to mention the issue number inside the PR which you are raising 🔢
+- Be humble to the maintainers and be kind to every other contributor as well 🤝
+- Look out for any other alternatives to reach out to the maintainer if they are not replying to your comment, Most importantly, Check whether there is a discord group or not 🔈
+- Kindly tag the maintainers if you encounter any errors when trying to solve the issue, we are here to help everyone 😄
+
 ## HOW TO MAKE A PULL REQUEST:
 
 **1.** Start by making a Fork of the [**Open-Source-With-Hasnain**](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain) repository. Click on the <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
