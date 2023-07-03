@@ -17,7 +17,7 @@
 
 <h3 align="center">🌏 This repo is hosted at <a href="https://oswh.tech">oswh.tech</a></h3>
 
-## 🚀 Quick Start
+# 🚀 Quick Start
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
 
