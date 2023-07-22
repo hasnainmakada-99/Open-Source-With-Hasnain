@@ -1,0 +1,8 @@
+new-resources:
+- pages/**
+
+sidebar-update:
+- _layouts/**
+
+workflow-add/update:
+- .github/**/*
