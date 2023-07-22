@@ -1,0 +1,8 @@
+label1:
+- pages/**
+
+label2:
+- _layouts/**
+
+label3:
+- .github/**/*
