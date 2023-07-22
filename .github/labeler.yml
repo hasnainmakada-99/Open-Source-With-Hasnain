@@ -1,8 +1,8 @@
-label1:
+new-resources:
 - pages/**
 
-label2:
+sidebar-update:
 - _layouts/**
 
-label3:
+workflow-add/update:
 - .github/**/*
