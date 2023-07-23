@@ -48,12 +48,12 @@
 </a>
 
 ## 📝 License
-This project is licensed under the [MIT licence](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENCE).
+This project is licensed under the [MIT license](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENSE).
 
 
 ## 💬 Get in touch
 
-If you have any questions or suggestions, feel free to [open an issue](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) or join our [Discord community](https://discord.com/invite/ERTNmajnKE).
+If you have any questions or suggestions, feel free to [open an issue](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) or join our [discord community](https://discord.com/invite/ERTNmajnKE).
 
 You can also reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
 
