@@ -6,7 +6,7 @@
   - [DevOps](./../pages/devops-resources.md)
   - [Web Development](./../pages/web-development-resources.md)
     - [HTML resources](./../pages/HTML-resources.md)
-    - [CSS resources](./../pages/css-resources.md)
+    - [CSS resources](./../pages/CSS-resources.md)
     - [React resources](./../pages/react-resources.md)
     - [Backend Development resources](./../pages/backend-development-resources.md)
   - [Android Development](../pages/android-development-resources.md)
