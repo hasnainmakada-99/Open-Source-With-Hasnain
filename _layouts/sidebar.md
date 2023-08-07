@@ -8,7 +8,7 @@
     - [HTML resources](./../pages/HTML-resources.md)
     - [CSS resources](./../pages/CSS-resources.md)
     - [React resources](./../pages/react-resources.md)
-    - [Backend Development resources](./../pages/backend-development-resources.md)
+    - [Backend Development resources](./../pages/backend-development-resource.md)
   - [Android Development](../pages/android-development-resources.md)
   - [Machine Learning](../pages/machine-learning-resources.md)
   - [Artificial Intelligence](../pages/AI-resources.md)
