@@ -19,7 +19,6 @@
   "homepage": "https://github.com/hasnainmakada-99/Open-Source-With-Hasnain#readme",
   "dependencies": {
     "docsify": "^4.13.0",
-    "docsify-cli": "^4.4.4",
     "g": "^2.0.1"
   }
 }
