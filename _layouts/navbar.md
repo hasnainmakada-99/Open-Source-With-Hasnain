@@ -2,3 +2,5 @@
 
 - [**Join our Discord**](https://discord.gg/ERTNmajnKE)
 
+- [**Hacktoberfest 2023**](../Hacktoberfest.md)
+
