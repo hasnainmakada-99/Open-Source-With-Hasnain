@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://ik.imagekit.io/1cw2zpbjy/OSWH/New_Project_header.png?updatedAt=1674799323135" alt="Open Source With Hasnain">
+</p>
+
 # How to Contribute
 
-1. if you are new to the open source start with [Good-first-issue]
+1.<h2> if you are new to the open source start with [Good-first-issue]<h2>
 
 ## Issues
 
@@ -85,6 +89,11 @@ All the best! 🥇
 3. Make sure to mention the issue number inside the PR which you are raising 🔢
 4. Be humble to the maintainers and be kind to every other contributor as well 🤝
 5. Look out for any other alternatives to reach out to the maintainer if they are not replying to your comment, Most importantly, Check whether there is a discord group or not 🔈
-6. Kindly tag the maintainers if you encounter any errors when trying to solve the issue, we are here to help   everyone 😄
+6. Kindly tag the maintainers if you encounter any errors when trying to solve the issue, we are here to help   everyone.
 
+<h2>References<h2>
+
+1. [learn git] https://www.neonscience.org/resources/learning-hub/tutorials/github-git-clone (Detail visualize overview).
+
+2.  [learn git] https://dev.to/ceceliacreates/how-to-run-a-project-from-github-locally-30d1
 
