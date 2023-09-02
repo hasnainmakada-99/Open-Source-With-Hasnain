@@ -91,7 +91,7 @@ All the best! 🥇
 5. Look out for any other alternatives to reach out to the maintainer if they are not replying to your comment, Most importantly, Check whether there is a discord group or not 🔈
 6. Kindly tag the maintainers if you encounter any errors when trying to solve the issue, we are here to help   everyone.
 
-<h2>References<h2>
+## References to learn about git and github
 
 1. [learn git] https://www.neonscience.org/resources/learning-hub/tutorials/github-git-clone (Detail visualize overview).
 
