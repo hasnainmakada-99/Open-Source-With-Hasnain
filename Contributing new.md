@@ -2,7 +2,7 @@
   <img src="https://ik.imagekit.io/1cw2zpbjy/OSWH/New_Project_header.png?updatedAt=1674799323135" alt="Open Source With Hasnain">
 </p>
 
-# How to Contribute
+# How to Contribute Open source 
 
 1.<h2> if you are new to the open source start with [Good-first-issue]<h2>
 
@@ -12,20 +12,24 @@
 
 ## Go to the issue tab select Good-first-issue
    - if you don't understand the issue ask for help.
-   - don't depend other try to solve yourself.
+   - don't depend others try to solve yourself.
+   - Be courageous Ask for help
    - Be patience. 
 
 # How to make Pull request with Git:
 1. Start by making a Fork of the Open-Source-With-Hasnain repository. Click on the Fork symbol at the top right.
 <img src = "https://media.geeksforgeeks.org/wp-content/uploads/20210907120315/clonegitproject.png" alt = "git project" width = 400px >
-2. Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
+
+2. Try to make seperate Branch with <new-branch> or something less chances of conflicts. 
+
+3. Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 
 git clone https://github.com/<your-github-username>/Open-Source-With-Hasnain.
 
-3. Navigate to the newly created Open-Source-With-Hasnain project directory:
+4. Navigate to the newly created Open-Source-With-Hasnain project directory:
 
 cd Open-Source-With-Hasnain
-4. Set upstream command:
+5. Set upstream command:
 
 git remote add upstream https://github.com/hasnainmakada-99/Open-Source-With-Hasnain
 
@@ -71,24 +75,24 @@ git commit -m "<your_commit_message>"
 git push origin YourBranchName
 11. Create a Pull Request!
 
-12. Congratulations! You've made your first contribution to Open-Source-With-Hasnain! 🙌🏼
+12. Congratulations! You've made your first contribution to Open-Source-With-Hasnain!.
 
-🏆 After this, the maintainers will review the PR and will merge it if it helps move the Open-Source-With-Hasnain project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase.
+ After this, the maintainers will review the PR and will merge it if it helps move the Open-Source-With-Hasnain project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase.
 
 To run the project locally on your machine, check out the official documentation by docsify
 
 Issues
 In order to discuss changes, you are welcome to open an issue about what you would like to contribute. Enhancements are always encouraged and appreciated.
 
-All the best! 🥇
+All the best! 
 ---------------------------------------------------------------------------------------------------------------
 ### Rules for Creating a PR (Pull Request)
-1. Make sure that the issue which are going to solve is not assigned to any other contributor,If it is assigned then look out for other issues 😄
+1. Make sure that the issue which are going to solve is not assigned to any other contributor,If it is assigned then look out for other issues.
 
-2. Don't just directly raise the PR without getting the issue assigned this may look like you are trying to spam the project 😠
-3. Make sure to mention the issue number inside the PR which you are raising 🔢
-4. Be humble to the maintainers and be kind to every other contributor as well 🤝
-5. Look out for any other alternatives to reach out to the maintainer if they are not replying to your comment, Most importantly, Check whether there is a discord group or not 🔈
+2. Don't just directly raise the PR without getting the issue assigned this may look like you are trying to spam the project.
+3. Make sure to mention the issue number inside the PR which you are raising.
+4. Be humble to the maintainers and be kind to every other contributor as well 
+5. Look out for any other alternatives to reach out to the maintainer if they are not replying to your comment, Most importantly, Check whether there is a discord group or not 
 6. Kindly tag the maintainers if you encounter any errors when trying to solve the issue, we are here to help   everyone.
 
 ## References to learn about git and github
