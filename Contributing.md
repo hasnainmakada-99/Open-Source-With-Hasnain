@@ -9,7 +9,29 @@
 
 ---
 
+## Running the Project locally 🖥️
+
+1. Clone the forked repo in your machine
+
+```
+git clone https://github.com/<your-username>/Open-Source-With-Hasnain.git
+```
+
+2. Open the project in terminal and install all the packages
+
+```
+cd Open-Source-With-Hasnain
+npm install
+```
+
+3. Run the below command and checkout http://localhost:3000
+
+```
+npm start
+```
+
 ## Rules for Creating a PR (Pull Request)
+
 - Make sure that the issue which are going to solve is not assigned to any other contributor, If it is assigned then look out for other issues 😄
 - Don't just directly raise the PR without getting the issue assigned this may look like you are trying to spam the project 😠
 - Make sure to mention the issue number inside the PR which you are raising 🔢
