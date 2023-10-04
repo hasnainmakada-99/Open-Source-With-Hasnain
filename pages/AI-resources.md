@@ -6,6 +6,7 @@
 |  1. Introduction to Artificial Intelligence| <center> [![Road Map to learn AI](https://i.ytimg.com/vi/I6BRHxNilMw/mqdefault.jpg "Road Map to learnAI")](https://www.youtube.com/watch?v=I6BRHxNilMw "Introduction to Linux") <center>  | [Here you go](https://youtu.be/I6BRHxNilMw)
 |  2. Understanding Artificial intelligence | <center> [![Understanding Artificial Intelligence](https://i.ytimg.com/vi/J_YLjCTOFWE/mqdefault.jpg "Understanding Artificial Intelligence")](https://www.youtube.com/watch?v=J_YLjCTOFWE "Understanding Artificial Intelligence") <center>  | [Here you go](https://www.youtube.com/watch?v=J_YLjCTOFWE)
 |  3. PDF of the Roadmap | <center> [![PDF of the Roadmap](https://i.ytimg.com/vi/6uE4nfFgc5Q/mqdefault.jpg "PDF of the roadmap")](https://www.youtube.com/watch?v=6uE4nfFgc5Q "PDF of the roadmap") <center>  | [Here you go](https://www.youtube.com/watch?v=6uE4nfFgc5Q)
+|  4. Introduction To Artificial Intelligence | <center> [![Artificial Intelligence](https://i.ibb.co/pbf14TL/w3-pull-res.png "WebDevelopment")](https://www.w3schools.com/ai/) <center> | [Here you go](https://www.w3schools.com/ai/)
 --- 
 ## Learning Python
 |Description | Preview   | Link to get started with it   |
