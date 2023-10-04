@@ -1,4 +1,4 @@
-/* Navbar styling */
+
 
 .app-nav {
     display: flex;
@@ -11,14 +11,14 @@
 
 @media screen and (max-width: 480px) {
     .app-nav {
-        margin-right: 0!important; /* Remove the right margin on smaller screens */
+        margin-right: 0!important; 
     }
 }
 
 @media only screen and (max-width: 930px) and (min-width: 755px) {
     .app-nav {
-        width: 100%; /* Make the navbar full width on screens between 755px and 930px */
-        margin-right: 0!important; /* Remove the right margin */
+        width: 100%; 
+        margin-right: 0!important; 
     }
 }
 

@@ -6,3 +6,6 @@ sidebar-update:
 
 workflow-add/update:
 - .github/**/*
+
+main-file add/update:
+- ./index.html
