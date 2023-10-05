@@ -1,42 +1,50 @@
-
-
 .app-nav {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: unset!important;
-    margin-top: 16px!important;
-    margin-right: unset!important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: unset !important;
+  margin-top: 16px !important;
+  margin-right: unset !important;
+}
+
+#docsify-darklight-theme {
+  right: -5px;
+  top: -5px;
+}
+
+body.ready.sticky main section.content {
+  display: flex;
+  justify-content: center;
 }
 
 @media screen and (max-width: 480px) {
-    .app-nav {
-        margin-right: 0!important; 
-    }
+  .app-nav {
+    margin-right: 0 !important;
+  }
 }
 
 @media only screen and (max-width: 930px) and (min-width: 755px) {
-    .app-nav {
-        width: 100%; 
-        margin-right: 0!important; 
-    }
+  .app-nav {
+    width: 100%;
+    margin-right: 0 !important;
+  }
 }
 
 @media only screen and (max-width: 385px) and (min-width: 306px) {
-    .app-nav {
-        text-align: center !important;
-    }
+  .app-nav {
+    text-align: center !important;
+  }
 }
 
 /* Main section styling */
 
 .content {
-    padding-top: 16px !important; /* Add some padding to the top of the content */
+  padding-top: 16px !important; /* Add some padding to the top of the content */
 }
 
 /* Additional adjustments for smaller screens */
 @media screen and (max-width: 480px) {
-    .content {
-        padding-top: 8px !important; /* Reduce the padding on smaller screens */
-    }
+  .content {
+    padding-top: 8px !important; /* Reduce the padding on smaller screens */
+  }
 }
