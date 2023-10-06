@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "description": "Getting started with Git & Github by Kunal Kushwaha",
+    "title": "Git & GitHub",
+    "imageURL": "https://i.ytimg.com/vi/apGV9Kg7ics/mqdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=apGV9Kg7ics"
+  },
+  {
+    "id": "2",
+    "description": "Web Development for Beginners by freeCodeCamp",
+    "title": "Web Development",
+    "imageURL": "https://ik.imagekit.io/1cw2zpbjy/OSWH/FCC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670222534503g",
+    "link": "https://youtu.be/nu_pCVPKzTk"
+  },
+  {
+    "id": "3",
+    "description": "Frontend Development by Aproov Goyal",
+    "title": "Web Development",
+    "imageURL": "https://user-images.githubusercontent.com/114678694/216386888-ec6da6af-49e2-42e6-93aa-0282c5cf0f35.jpg",
+    "link": "https://www.youtube.com/watch?v=-wx4z8SC7aA"
+  },
+  {
+    "id": "4",
+    "description": "JavaScript Tutorial for Beginners - Full Course in 12 Hours by Clever Programmer",
+    "title": "Web Development",
+    "imageURL": "https://user-images.githubusercontent.com/97666287/213859043-5361cbb6-831a-4c0a-97bb-0e7e30cf65bb.jpg",
+    "link": "https://www.youtube.com/watch?v=lI1ae4REbFM&t=30489s&ab_channel=CleverProgrammer"
+  },
+  {
+    "id": "5",
+    "description": "Javascript CheatSheet by CodeWithHarry",
+    "title": "Web Development",
+    "imageURL": "https://user-images.githubusercontent.com/97666287/213903726-821d972f-6cb7-448b-9d7b-2db91bfed3d9.png",
+    "link": "https://www.codewithharry.com/blogpost/javascript-cheatsheet/"
+  }
+]
