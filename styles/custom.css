@@ -5,6 +5,11 @@
   position: unset !important;
   margin-top: 16px !important;
   margin-right: unset !important;
+  text-align: center;
+}
+
+.content .markdown-section table {
+    margin-top: 30px;
 }
 
 #docsify-darklight-theme {
@@ -21,6 +26,9 @@ body.ready.sticky main section.content {
   .app-nav {
     margin-right: 0 !important;
   }
+  .app-nav ul {
+        padding-left: 0;
+  }
 }
 
 @media only screen and (max-width: 930px) and (min-width: 755px) {
@@ -30,10 +38,10 @@ body.ready.sticky main section.content {
   }
 }
 
-@media only screen and (max-width: 385px) and (min-width: 306px) {
-  .app-nav {
-    text-align: center !important;
-  }
+@media only screen and (max-width: 655px) and (min-width: 513px) {
+    .app-nav ul{
+        margin-left: -30px;
+    }
 }
 
 /* Main section styling */
