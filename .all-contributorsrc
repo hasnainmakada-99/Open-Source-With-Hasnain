@@ -221,6 +221,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "replyre",
+      "name": "Rahul Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121796450?v=4",
+      "profile": "https://github.com/replyre",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
