@@ -230,6 +230,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "SahilSinghTomar",
+      "name": "Sahil Singh Tomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50849361?v=4",
+      "profile": "https://github.com/SahilSinghTomar",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
