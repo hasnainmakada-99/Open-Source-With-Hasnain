@@ -248,6 +248,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "AdebayoIbrahim",
+      "name": "SetUp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98415538?v=4",
+      "profile": "https://ibrahim-setup.netlify.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
