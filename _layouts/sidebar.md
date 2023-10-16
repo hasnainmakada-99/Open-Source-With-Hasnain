@@ -11,7 +11,6 @@
     - [HTML resources](./../pages/HTML-resources.md)
     - [CSS resources](./../pages/CSS-resources.md)
     - [React resources](./../pages/react-resources.md)
-    - [Backend Development resources](./../pages/backend-development-resource.md)
     - [Backend Development resources](./../pages/backend-development-resource.md) 
    </details>
    
