@@ -12,6 +12,17 @@
   top: -5px;
 }
 
+.input-wrap{
+  position: relative;
+  width: 250px;
+  margin: 20px;
+}
+
+.sidebar-toggle-button{
+  position: relative;
+  top: -720px;
+}
+
 body.ready.sticky main section.content {
   display: flex;
   justify-content: center;
