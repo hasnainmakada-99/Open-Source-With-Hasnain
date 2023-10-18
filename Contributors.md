@@ -42,6 +42,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Avilash-Saha"><img src="https://avatars.githubusercontent.com/u/85384757?v=4?s=100" width="100px;" alt="Avilash_Saha"/><br /><sub><b>Avilash_Saha</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commits?author=Avilash-Saha" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://ibrahim-setup.netlify.app"><img src="https://avatars.githubusercontent.com/u/98415538?v=4?s=100" width="100px;" alt="SetUp"/><br /><sub><b>SetUp</b></sub></a><br /><a href="#content-AdebayoIbrahim" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/naikmubashir"><img src="https://avatars.githubusercontent.com/u/124430100?v=4?s=100" width="100px;" alt="Naik Mubashir"/><br /><sub><b>Naik Mubashir</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues?q=author%3Anaikmubashir" title="Bug reports">🐛</a></td>
+    </tr>
   </tbody>
 </table>
 
