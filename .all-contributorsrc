@@ -257,6 +257,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "naikmubashir",
+      "name": "Naik Mubashir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124430100?v=4",
+      "profile": "https://github.com/naikmubashir",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
