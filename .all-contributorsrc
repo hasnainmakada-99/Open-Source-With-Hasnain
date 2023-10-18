@@ -221,6 +221,51 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "replyre",
+      "name": "Rahul Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121796450?v=4",
+      "profile": "https://github.com/replyre",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "SahilSinghTomar",
+      "name": "Sahil Singh Tomar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50849361?v=4",
+      "profile": "https://github.com/SahilSinghTomar",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "Avilash-Saha",
+      "name": "Avilash_Saha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85384757?v=4",
+      "profile": "https://github.com/Avilash-Saha",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AdebayoIbrahim",
+      "name": "SetUp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98415538?v=4",
+      "profile": "https://ibrahim-setup.netlify.app",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "naikmubashir",
+      "name": "Naik Mubashir",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124430100?v=4",
+      "profile": "https://github.com/naikmubashir",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,

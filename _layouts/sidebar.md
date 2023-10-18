@@ -4,19 +4,20 @@
   - [Contribution guidelines](../Contributing.md)
   - [How to add resources](../how-to-add-resources.md)
 
-- Resources
+* Resources
+  - [DevOps](./../pages/devops-resources.md)
+  - <details>
+      <summary><a href="./../pages/web-development-resources.md">Web Development</a>
+      </summary>
+     
+     - [HTML resources](./../pages/HTML-resources.md)
+     - [CSS resources](./../pages/CSS-resources.md)
+     - [React resources](./../pages/react-resources.md)
+     - [Backend Development resources](./../pages/backend-development-resource.md) 
+    </details>
 
-* [DevOps](./../pages/devops-resources.md)
-<details>
-<summary>Web Development</summary>
-  - [HTML resources](./../pages/HTML-resources.md)
-  - [CSS resources](./../pages/CSS-resources.md)
-  - [React resources](./../pages/react-resources.md)
-  - [Backend Development resources](./../pages/backend-development-resource.md)
-</details>
-
-* [Android Development](../pages/android-development-resources.md)
-* [Machine Learning](../pages/machine-learning-resources.md)
-* [Artificial Intelligence](../pages/AI-resources.md)
-* [Data Structure And Algorithms](../pages/data-structure-and-algorithms-resources.md)
-* [BlockChain Development](../pages/full-stack-blockchain-development.md)
+  - [Android Development](../pages/android-development-resources.md)
+  - [Machine Learning](../pages/machine-learning-resources.md)
+  - [Artificial Intelligence](../pages/AI-resources.md)
+  - [Data Structure And Algorithms](../pages/data-structure-and-algorithms-resources.md)
+  - [BlockChain Development](../pages/full-stack-blockchain-development.md)
