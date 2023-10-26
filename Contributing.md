@@ -28,8 +28,18 @@ To run the project on your local machine, follow these steps:
 
 2. Navigate to the project directory
 
-```bash
-cd Open-Source-With-Hasnain
-```
+   ```bash
+   cd Open-Source-With-Hasnain
+   ```
 
 3. Install the required packages
+
+   ```bash
+   npm install
+   ```
+
+4. Run Locally
+
+   ```bash
+   npm start
+   ```
