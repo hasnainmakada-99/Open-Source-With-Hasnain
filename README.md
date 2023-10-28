@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/1cw2zpbjy/OSWH/New_Project_header.png?updatedAt=1674799323135" alt="Open Source With Hasnain">
+  <img src="open_source.png" alt="Open Source With Hasnain">
 </p>
 <p align="center">
   <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hasnainmakada-99/Open-Source-With-Hasnain" alt="License"></a>
