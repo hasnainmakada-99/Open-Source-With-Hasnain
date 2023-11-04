@@ -266,6 +266,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Akshaya101",
+      "name": "Akshaya Chanchala",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63019171?v=4",
+      "profile": "https://github.com/Akshaya101",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,

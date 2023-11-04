@@ -44,6 +44,7 @@
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/naikmubashir"><img src="https://avatars.githubusercontent.com/u/124430100?v=4?s=100" width="100px;" alt="Naik Mubashir"/><br /><sub><b>Naik Mubashir</b></sub></a><br /><a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues?q=author%3Anaikmubashir" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Akshaya101"><img src="https://avatars.githubusercontent.com/u/63019171?v=4?s=100" width="100px;" alt="Akshaya Chanchala"/><br /><sub><b>Akshaya Chanchala</b></sub></a><br /><a href="#design-Akshaya101" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
