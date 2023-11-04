@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/hasnainmakada-99/Open-Source-With-Hasnain?style=social" alt="Stars"/>
   </a>
 </p>
-<h1 align="center"><b>Open Source With Hasnain</b></h2>
+<h1 align="center"><b>Open Source With Hasnain 2</b></h2>
 <p align="center">
   A collection of resources for learning and contributing to open source projects, curated by the community :heart:.
 </p>
