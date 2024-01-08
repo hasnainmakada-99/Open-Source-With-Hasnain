@@ -10,15 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
-
+        uses: actions/checkout
       - name: Generate Changelog
-        uses: BobAnkh/auto-generate-changelog@v1.2.5
+        uses: BobAnkh/auto-generate-changelog
         with:
           REPO_NAME: "${{ github.repository }}"
           ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PATH: "../CHANGELOG.MD" # Adjust the path based on your Docsify project structure
+          PATH: "../CHANGELOG" # Adjust the path if needed
           COMMIT_MESSAGE: "docs(CHANGELOG): update release notes"
           TYPE: "[add]: Feature,[fix]: Bug Fixes,[update]: Documentation"
