@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout
+        uses: actions/checkout@v2
       - name: Generate Changelog
         uses: BobAnkh/auto-generate-changelog@1.2.5
         with:
