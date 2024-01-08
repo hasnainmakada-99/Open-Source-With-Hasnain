@@ -19,7 +19,7 @@
 
 ## Introduction to OSWH 🗣️
 
-https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/assets/82728823/b76fb7bf-3db1-452e-902d-1b2feb2ca5d0
+[![OSWH Introduction](https://ik.imagekit.io/1cw2zpbjy/OSWH/OSWH%20Video%20Thumbnail.png?updatedAt=1704681388203)](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/assets/82728823/b76fb7bf-3db1-452e-902d-1b2feb2ca5d0 "OSWH")
 
 ## 🚀 Quick Start
 
