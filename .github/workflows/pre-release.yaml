@@ -1,5 +1,4 @@
----
-name: "pre-release"
+name: "Release"
 
 on:
   push:
@@ -7,8 +6,8 @@ on:
       - "main"
 
 jobs:
-  pre-release:
-    name: "Pre Release"
+  release:
+    name: "Release"
     runs-on: "ubuntu-latest"
 
     steps:
@@ -21,7 +20,7 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
-          prerelease: true
+          prerelease: false # Change this line to set it to false for an actual release
           title: "Release"
           files: |
             *.json
