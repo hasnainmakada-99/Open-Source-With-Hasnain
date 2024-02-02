@@ -62,7 +62,3 @@ If you have any questions or suggestions, feel free to [open an issue](https://g
 You can also reach out to the maintainer at [Twitter](https://twitter.com/Hasnain_Makada)
 
 <h2 align="center">Don't forget to ⭐ this repo 😊</h2>
-
-
-
-

@@ -15,3 +15,4 @@
   - [Artificial Intelligence](../pages/AI-resources.md)
   - [Data Structure And Algorithms](../pages/data-structure-and-algorithms-resources.md)
   - [BlockChain Development](../pages/full-stack-blockchain-development.md)
+  - [Paid Resources Collection](../pages/paid-resources.md)
