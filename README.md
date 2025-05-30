@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/hasnainmakada-99/Open-Source-With-Hasnain?style=social" alt="Stars"/>
   </a>
 </p>
-<h1 align="center"><b>Open Source With Hasnain</b></h2>
+<h1 align="center"><b>Open Source With Hasnain</b></h1>
 <p align="center">
   A collection of resources for learning and contributing to open source projects, curated by the community :heart:.
 </p>
@@ -33,27 +33,27 @@
 
 :bug: [Submitting bug reports](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues/new/choose) - If you notice any unusual activity inside this project, please report to us
 
-:memo: [Adding Resources](https://oswh.tech/#/how-to-add-resources) - If you think that we are missing any crucial resource which could be helpful for beginners, feel free to add it
+:memo: [Adding Resources](./how-to-add-resources.md) - If you think that we are missing any crucial resource which could be helpful for beginners, feel free to add it
 
-:technologist: [Developing new features](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues) - If have any new ideas in your mind which you would like to implement, Feel free to raise them or reach out the maitainers at [Discord](https://discord.gg/d3uzRXFG9h)
+:technologist: [Developing new features](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/issues) - If you have any new ideas in your mind which you would like to implement, feel free to raise them or reach out to the maintainers at [Discord](https://discord.com/invite/ERTNmajnKE)
 
 ## Features 💡
 
-- In this repository, you'll find a variety of resources tailored to different skill levels and backgrounds
+- **Comprehensive Resources**: Discover a variety of carefully curated resources tailored to different skill levels and backgrounds
 
-- Learn how to contribute to open source projects
+- **Learn Open Source**: Master the art of contributing to open source projects with our step-by-step guides
 
-- Explore open source projects and find ones to contribute to or find resources for learning more about open source
+- **Explore & Contribute**: Find exciting open source projects to contribute to and access valuable learning resources
 
 ## 🎉 The awesome people who made this happen
 
-<a href="https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/Contributors.md">
+<a href="./Contributors.md">
   <img src="https://contributors-img.web.app/image?repo=hasnainmakada-99/Open-Source-With-Hasnain"/>
 </a>
 
 ## 📝 License
 
-This project is licensed under the [MIT license](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/blob/main/LICENSE).
+This project is licensed under the [MIT license](./LICENSE).
 
 ## 💬 Get in touch
 
