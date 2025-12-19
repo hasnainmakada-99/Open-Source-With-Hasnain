@@ -12,7 +12,7 @@
 </p>
 <h1 align="center"><b>Open Source With Hasnain</b></h1>
 <p align="center">
-  A collection of resources for learning and contributing to open source projects, curated by the community :heart:.
+  A comprehensive collection of curated resources for learning and contributing to open source projects - Updated for 2025 :heart:
 </p>
 
 <h3 align="center">🌏 This repo is hosted at <a href="https://hasnainmakada-99.github.io/Open-Source-With-Hasnain/#/">GitHub Pages</a></h3>
