@@ -4,7 +4,10 @@
 | :---------: | :-----: | :-----------------: |
 | 1. Flutter Course for Beginners by freeCodeCamp | [![Flutter](https://i.ytimg.com/vi/VPvVD8t02U8/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBIvrUeVqraDVEpjrh30B0O-q_oTA "Flutter")](https://www.youtube.com/watch?v=VPvVD8t02U8")| [Here you go](https://www.youtube.com/watch?v=VPvVD8t02U8) 
 | 2. What is Flutter? Beginner to Advance Full Course by WsCube Tech | [![Flutter](https://i.ytimg.com/vi/jqxz7QvdWk8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAcflFxLtuP3qXItOVJLx_w-VS0Yg "Flutter")](https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E")| [Here you go](https://www.youtube.com/watch?v=jqxz7QvdWk8&list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E)
-| 3. Full Flutter Course by Vandad Nahavandipoor | [![Flutter](https://i.ytimg.com/vi/IfUjHNODRoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpmXkQa6WtEmRLAEBju0qi-zhE3Q "Flutter")](httphttps://i.ytimg.com/vi/IfUjHNODRoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpmXkQa6WtEmRLAEBju0qi-zhE3Qs://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT")| [Here you go](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+| 3. Full Flutter Course by Vandad Nahavandipoor | [![Flutter](https://i.ytimg.com/vi/IfUjHNODRoM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpmXkQa6WtEmRLAEBju0qi-zhE3Q "Flutter")](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT")| [Here you go](https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+| 4. Flutter State Management Course by Riverpod | [![Flutter](https://i.ytimg.com/vi/RBZl2nGLpsI/mqdefault.jpg "Flutter")](https://www.youtube.com/watch?v=RBZl2nGLpsI")| [Here you go](https://www.youtube.com/watch?v=RBZl2nGLpsI)
+| 5. Flutter Firebase Course by freeCodeCamp | [![Flutter](https://i.ytimg.com/vi/sfA3NWDBPZ4/mqdefault.jpg "Flutter")](https://www.youtube.com/watch?v=sfA3NWDBPZ4")| [Here you go](https://www.youtube.com/watch?v=sfA3NWDBPZ4)
+| 6. Flutter Clean Architecture & TDD Course | [![Flutter](https://i.ytimg.com/vi/KjE2IDphA_U/mqdefault.jpg "Flutter")](https://www.youtube.com/watch?v=KjE2IDphA_U")| [Here you go](https://www.youtube.com/watch?v=KjE2IDphA_U)
 
 
 ## Sample Project to learn Flutter
@@ -13,6 +16,8 @@
 | :---------: | :-----: | :-----------------: |
 | 1. Create a QR CODE SCANNER and GENERATOR Application using Flutter by GeeksforGeeks | [![Flutter](https://i.ytimg.com/vi/hm5JfFhiXL8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDfzQknY_CcL5OAgaH8fYbABaxQDg "Flutter")](https://www.youtube.com/watch?v=hm5JfFhiXL8&list=PLG5KvF1OpdCV0mGf8k7NNqFyI9qlwIiMl")| [Here you go](https://www.youtube.com/watch?v=hm5JfFhiXL8&list=PLG5KvF1OpdCV0mGf8k7NNqFyI9qlwIiMl)
 | 2. Build an Blinkit Clone App with Flutter by WsCube Tech | [![Flutter](https://i.ytimg.com/vi/BU4jheqy7fI/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCWNUYlBiUS63ddz4_rzcasrR1Rmg "Flutter")](https://www.youtube.com/watch?v=BU4jheqy7fI")| [Here you go](https://www.youtube.com/watch?v=BU4jheqy7fI)
+| 3. Build a Chat App with Flutter & Firebase | [![Flutter](https://i.ytimg.com/vi/Ref8lRx5oy0/mqdefault.jpg "Flutter")](https://www.youtube.com/watch?v=Ref8lRx5oy0")| [Here you go](https://www.youtube.com/watch?v=Ref8lRx5oy0)
+| 4. Flutter Weather App Tutorial | [![Flutter](https://i.ytimg.com/vi/RShThkIcaBU/mqdefault.jpg "Flutter")](https://www.youtube.com/watch?v=RShThkIcaBU")| [Here you go](https://www.youtube.com/watch?v=RShThkIcaBU)
 
 ## Github Repository to learn Flutter
 
@@ -20,3 +25,5 @@
 | :---------: | :-----: | :-----------------: |
 | 1. Flutter Resources by CoderUni | [![Flutter](https://avatars.githubusercontent.com/u/57564335?v=4 "Flutter")](https://github.com/CoderUni/FlutterResources")| [Here you go](https://github.com/CoderUni/FlutterResources)
 | 2. Flutter Resources by Flutter Organisation | [![Flutter](https://avatars.githubusercontent.com/u/14101776?s=200&v=4 "Flutter")](https://github.com/flutter/flutter")| [Here you go](https://github.com/flutter/flutter)
+| 3. Flutter Awesome - A curated list of awesome Flutter resources | [![Flutter](https://avatars.githubusercontent.com/u/7721225?v=4 "Flutter")](https://github.com/Solido/awesome-flutter")| [Here you go](https://github.com/Solido/awesome-flutter)
+| 4. Best Flutter UI Templates | [![Flutter](https://avatars.githubusercontent.com/u/24822318?v=4 "Flutter")](https://github.com/mitesh77/Best-Flutter-UI-Templates")| [Here you go](https://github.com/mitesh77/Best-Flutter-UI-Templates)

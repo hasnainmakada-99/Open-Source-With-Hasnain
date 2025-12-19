@@ -108,8 +108,23 @@
 | :------------: | :------------: | :------------: |
 |  1. Introduction to Service mesh with Linkerd by edx      | <center> [![Introduction to Service mesh with Linkerd      ](https://prod-discovery.edx-cdn.org/media/course/image/78e92285-b1dc-47d4-8574-046c7cfaa628-69dfd1ff5a1b.small.png "Introduction to Service mesh with Linkerd    ")](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd "Introduction to Service mesh with Linkerd   ") <center>  | [Here you go](https://www.edx.org/course/introduction-to-service-mesh-with-linkerd)
 ---
+## Security & Compliance
+|Description | Preview   | Link to get started with it   |
+| :------------: | :------------: | :------------: |
+|  1. DevSecOps Foundation by Practical DevSecOps  | <center> [![DevSecOps Foundation](https://i.ytimg.com/vi/XAhrgHBPVTY/mqdefault.jpg "DevSecOps Foundation")](https://www.youtube.com/watch?v=XAhrgHBPVTY "DevSecOps Foundation") <center>  | [Here you go](https://www.youtube.com/watch?v=XAhrgHBPVTY)
+|  2. Complete DevSecOps Tutorial by freeCodeCamp  | <center> [![Complete DevSecOps Tutorial](https://i.ytimg.com/vi/nrhxNNH5lt0/mqdefault.jpg "Complete DevSecOps Tutorial")](https://www.youtube.com/watch?v=nrhxNNH5lt0 "Complete DevSecOps Tutorial") <center>  | [Here you go](https://www.youtube.com/watch?v=nrhxNNH5lt0)
+|  3. Container Security Best Practices  | <center> [![Container Security Best Practices](https://i.ytimg.com/vi/gKGf2L6TxMw/mqdefault.jpg "Container Security Best Practices")](https://www.youtube.com/watch?v=gKGf2L6TxMw "Container Security Best Practices") <center>  | [Here you go](https://www.youtube.com/watch?v=gKGf2L6TxMw)
+---
+## Ansible & Configuration Management
+|Description | Preview   | Link to get started with it   |
+| :------------: | :------------: | :------------: |
+|  1. Ansible Full Course for Beginners by freeCodeCamp  | <center> [![Ansible Full Course](https://i.ytimg.com/vi/9Ua2b06oAr4/mqdefault.jpg "Ansible Full Course")](https://www.youtube.com/watch?v=9Ua2b06oAr4 "Ansible Full Course") <center>  | [Here you go](https://www.youtube.com/watch?v=9Ua2b06oAr4)
+|  2. Ansible Tutorial for Beginners by TechWorld with Nana  | <center> [![Ansible Tutorial](https://i.ytimg.com/vi/1id6ERvfozo/mqdefault.jpg "Ansible Tutorial")](https://www.youtube.com/watch?v=1id6ERvfozo "Ansible Tutorial") <center>  | [Here you go](https://www.youtube.com/watch?v=1id6ERvfozo)
+---
 ## GitHub Repositories to learn DevOps
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. 90 Days of DevOps - Roadmap  | <center> [![open source](https://ik.imagekit.io/1cw2zpbjy/OSWH/Getting_started_with_DevOps_-_Banner.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667725617154 "DevOps")](https://github.com/MichaelCade/90DaysOfDevOps "90 Days of DevOps - Roadmap") </center> |   [Here you go](https://github.com/MichaelCade/90DaysOfDevOps)
 |  2. DevOps Learning Hub: Tools and Tech - Pradumna Saraf  | <center> [![open source](https://ik.imagekit.io/hfclyehqd/OS_Bag/DevOps_-_Pradumnasaraf.jpeg?updatedAt=1684313490774 "DevOps")](https://github.com/Pradumnasaraf/DevOps "DevOps Learning Hub: Tools and Tech - Pradumna Saraf") </center> |   [Here you go](https://github.com/Pradumnasaraf/DevOps)
+|  3. Awesome DevOps - A curated list of DevOps resources  | <center> [![Awesome DevOps](https://avatars.githubusercontent.com/u/17219288?s=200&v=4 "Awesome DevOps")](https://github.com/awesome-soft/awesome-devops "Awesome DevOps") </center> |   [Here you go](https://github.com/awesome-soft/awesome-devops)
+|  4. DevOps Exercises - Questions and Exercises for DevOps  | <center> [![DevOps Exercises](https://avatars.githubusercontent.com/u/3315443?v=4 "DevOps Exercises")](https://github.com/bregman-arie/devops-exercises "DevOps Exercises") </center> |   [Here you go](https://github.com/bregman-arie/devops-exercises)
