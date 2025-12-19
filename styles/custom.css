@@ -15,11 +15,43 @@
 #docsify-darklight-theme {
   right: 950px;
   top: -5px;
+  z-index: 1000;
 }
 
 body.ready.sticky main section.content {
   display: flex;
   justify-content: center;
+}
+
+/* Improve link styling */
+.markdown-section a {
+  transition: color 0.3s ease;
+}
+
+/* Improve table styling */
+.markdown-section table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+
+.markdown-section table td,
+.markdown-section table th {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+}
+
+/* Improve image styling */
+.markdown-section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
 }
 
 @media screen and (max-width: 480px) {
@@ -54,5 +86,14 @@ body.ready.sticky main section.content {
 @media screen and (max-width: 480px) {
   .content {
     padding-top: 8px !important; /* Reduce the padding on smaller screens */
+  }
+  
+  .markdown-section table {
+    font-size: 14px;
+  }
+  
+  .markdown-section table td,
+  .markdown-section table th {
+    padding: 8px 10px;
   }
 }

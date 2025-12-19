@@ -1,4 +1,10 @@
-# CTF (Capture The Flag) Resources
+# CTF & Cyber Security Resources - 2025 Edition
+
+## 🔐 Master Cybersecurity Through Hands-On Practice
+
+Learn ethical hacking, penetration testing, and security through Capture The Flag challenges.
+
+---
 
 ## What is CTF?
 CTF (Capture the Flag) is one of the best learning methods in the field of Cyber Security. CTF challenges are hands-on learning experiences that involve solving puzzles related to various topics such as cryptography, web security, binary exploitation, reverse engineering, and more. They provide a great way for beginners to learn real-world hacking skills.

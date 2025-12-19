@@ -1,4 +1,78 @@
-#### 1.1.0 (2023-05-\*\*)
+#### 2.0.0 (2025-01-**)
+
+##### Major Release - 2025 Complete Website Overhaul
+
+This release represents a comprehensive modernization of the Open Source With Hasnain platform, bringing it up to date with 2025 standards and best practices.
+
+##### Breaking Changes
+
+- Updated version from 1.1.0 to 2.0.0
+- Updated package.json license from ISC to MIT
+- Modernized all CDN links to latest versions
+
+##### Features
+
+- 🎨 Complete UI/UX overhaul with modern styling
+- 📱 Improved responsive design for mobile devices
+- 🔍 Enhanced SEO with comprehensive meta tags
+- 🎯 Better organized resource categories with 2025 branding
+- ⚡ Improved performance with optimized CSS
+- 🌐 Added Twitter card and Open Graph meta tags
+- 📚 All resource pages updated with 2025 Edition headers
+- 🔄 Smooth scrolling and better navigation
+- 🎨 Improved table and image styling
+
+##### Documentation Changes
+
+- Updated all resource page headers with "2025 Edition" branding
+- Enhanced Contributing.md with detailed guidelines
+- Completely rewrote how-to-add-resources.md with comprehensive instructions
+- Updated SECURITY.md with modern security practices
+- Added version 2.0.0 to security policy
+- Improved README.md with 2025 information
+- Better organization of resources by categories
+
+##### Bug Fixes
+
+- Fixed duplicate property issues in docsify config (loadSidebar, search)
+- Fixed HTML validation issues
+- Corrected CSS z-index for dark/light theme toggle
+- Fixed npm security vulnerabilities (auto-fixable)
+
+##### Resource Updates
+
+- Web Development: Reorganized with sections (Getting Started, JavaScript & TypeScript, Modern Frameworks, etc.)
+- React Resources: Better categorization (Core React, Next.js, Styling)
+- CSS Resources: Added sections (Core CSS, Layout, Frameworks)
+- HTML Resources: Added MDN documentation reference
+- AI Resources: Updated with 2025 edition header
+- DevOps Resources: Modernized header and structure
+- Machine Learning: Updated header and organization
+- Android Development: Enhanced structure
+- Backend Development: Better categorization
+- Flutter: Improved organization
+- Blockchain: Updated with Web3 focus
+- CTF & Cyber Security: Enhanced with modern structure
+- DSA Resources: Better organization
+
+##### CSS Improvements
+
+- Added smooth scrolling
+- Improved link transitions
+- Better table styling with border-collapse
+- Enhanced responsive design for mobile
+- Improved image styling with border-radius
+- Better mobile table responsiveness
+
+##### Package Updates
+
+- Updated package.json with comprehensive keywords
+- Fixed 8 out of 13 npm security vulnerabilities
+- Added proper description to package.json
+
+---
+
+#### 1.1.0 (2023-05-**)
 
 ##### Documentation Changes
 

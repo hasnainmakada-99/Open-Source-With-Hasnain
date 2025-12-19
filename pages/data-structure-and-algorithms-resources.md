@@ -1,3 +1,13 @@
+# Data Structures and Algorithms Resources - 2025 Edition
+
+## 💡 Master DSA - The Foundation of Programming
+
+Comprehensive resources to build strong problem-solving skills and ace technical interviews.
+
+---
+
+## Core DSA Courses
+
 |Description | Preview   | Link to get started with it   |
 | ------------ | ------------ | ------------ |
 |   1. Algorithms, Part I by Coursera | [![Algorithms, Part I](https://ik.imagekit.io/yrvfdj8eu/coursera_FrWf1hqC8?ik-sdk-version=javascript-1.4.3&updatedAt=1670359766093 "Algorithms, Part I")](https://www.coursera.org/learn/algorithms-part1 "Algorithms, Part I")  | [Enroll for free](https://www.coursera.org/learn/algorithms-part1)  

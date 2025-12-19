@@ -1,6 +1,12 @@
- # AI RESOURCES
+ # AI Resources - 2025 Edition
 
-## Prerequsites
+## 🤖 Comprehensive AI & Machine Learning Learning Path
+
+Stay ahead with the latest AI resources and technologies.
+
+---
+
+## Prerequisites
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. Introduction to Artificial Intelligence| <center> [![Road Map to learn AI](https://i.ytimg.com/vi/I6BRHxNilMw/mqdefault.jpg "Road Map to learnAI")](https://www.youtube.com/watch?v=I6BRHxNilMw "Introduction to Linux") <center>  | [Here you go](https://youtu.be/I6BRHxNilMw)

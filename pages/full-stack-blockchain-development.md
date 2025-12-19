@@ -1,4 +1,12 @@
-# Blockchain Resources
+# Blockchain Development Resources - 2025 Edition
+
+## ⛓️ Master Web3 & Blockchain Development
+
+Build decentralized applications and smart contracts on modern blockchain platforms.
+
+---
+
+## Full Stack Web3
 
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |

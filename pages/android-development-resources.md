@@ -1,5 +1,12 @@
+# Android Development Resources - 2025 Edition
 
-# Android Development resources
+## 📱 Master Android App Development
+
+Build modern Android applications with Kotlin and latest Android technologies.
+
+---
+
+## Getting Started
 
 |Description | Preview   | Link to get started  with it  |
 | :------------: | :------------: | :------------: |

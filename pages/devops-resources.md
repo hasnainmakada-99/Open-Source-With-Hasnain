@@ -1,6 +1,12 @@
-# DevOps Resources
+# DevOps Resources - 2025 Edition
 
-## Prerequsites
+## 🚀 Complete DevOps Learning Path
+
+Master modern DevOps practices, tools, and methodologies.
+
+---
+
+## Prerequisites
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |
 |  1. Introduction to Linux by edx| <center> [![Introduction to Linux](https://i.ytimg.com/vi/BmDricQGK6w/mqdefault.jpg "Introduction to Linux")](https://www.youtube.com/watch?v=BmDricQGK6w "Introduction to Linux") <center>  | [Here you go](https://www.edx.org/course/introduction-to-linux)
