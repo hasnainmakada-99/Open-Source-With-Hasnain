@@ -1,7 +1,32 @@
+# CSS Resources - 2025 Edition
+
+## 🎨 Master Modern CSS & Styling
+
+Learn CSS from fundamentals to advanced techniques including modern frameworks.
+
+---
+
+## Core CSS
+
 |Description | Preview   | Link to get started with it   |
 | ------------ | ------------ | ------------ |
 | 1. CSS Tutorial by freeCodeCamp | [![Web Development](https://ik.imagekit.io/1cw2zpbjy/OSWH/FCC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670222534503 "Web Development")](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=14272s&ab_channel=freeCodeCamp.org)| [Here you go](https://www.youtube.com/watch?v=OXGznpKZ_sA&t=14272s&ab_channel=freeCodeCamp.org)
-| 2. CSS Flexbox CheatSheet by CSS-Tricks | [![Web Development](https://ik.imagekit.io/gaba/css-tricks-e1394062740966.png?updatedAt=1678565916889)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)| [Here you go](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-| 3. CSS CheatSheet by CodeWithHarry | [![Web Development](https://user-images.githubusercontent.com/97666287/213903726-821d972f-6cb7-448b-9d7b-2db91bfed3d9.png)](https://www.codewithharry.com/blogpost/css-cheatsheet/)| [Here you go](https://www.codewithharry.com/blogpost/css-cheatsheet/)
-| 4. Learn Tailwind CSS by freeCodeCamp | [![Web Development](https://ik.imagekit.io/1cw2zpbjy/OSWH/FCC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670222534503 "Web Development")](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)| [Here you go](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)
-| 5. CSS Reference Lists | [![Web Development](https://i.ibb.co/pbf14TL/w3-pull-res.png "WebDevelopment")](https://www.w3schools.com/cssref/index.php)| [Here you go](https://www.w3schools.com/cssref/index.php)
+| 2. CSS CheatSheet by CodeWithHarry | [![Web Development](https://user-images.githubusercontent.com/97666287/213903726-821d972f-6cb7-448b-9d7b-2db91bfed3d9.png)](https://www.codewithharry.com/blogpost/css-cheatsheet/)| [Here you go](https://www.codewithharry.com/blogpost/css-cheatsheet/)
+| 3. CSS Reference Lists | [![Web Development](https://i.ibb.co/pbf14TL/w3-pull-res.png "WebDevelopment")](https://www.w3schools.com/cssref/index.php)| [Here you go](https://www.w3schools.com/cssref/index.php)
+
+---
+
+## Layout & Advanced CSS
+
+|Description | Preview   | Link to get started with it   |
+| ------------ | ------------ | ------------ |
+| 1. CSS Flexbox CheatSheet by CSS-Tricks | [![Web Development](https://ik.imagekit.io/gaba/css-tricks-e1394062740966.png?updatedAt=1678565916889)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)| [Here you go](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+| 2. CSS Grid CheatSheet by CSS-Tricks | [![Web Development](https://ik.imagekit.io/gaba/css-tricks-e1394062740966.png?updatedAt=1678565916889)](https://css-tricks.com/snippets/css/complete-guide-grid/)| [Here you go](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+---
+
+## CSS Frameworks
+
+|Description | Preview   | Link to get started with it   |
+| ------------ | ------------ | ------------ |
+| 1. Learn Tailwind CSS by freeCodeCamp | [![Web Development](https://ik.imagekit.io/1cw2zpbjy/OSWH/FCC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670222534503 "Web Development")](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)| [Here you go](https://www.youtube.com/watch?v=ft30zcMlFao&ab_channel=freeCodeCamp.org)

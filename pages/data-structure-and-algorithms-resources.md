@@ -1,5 +1,12 @@
-|Description | Preview   | Link to get started with it   |
-| ------------ | ------------ | ------------ |
+# Data Structures and Algorithms Resources - 2025 Edition
+
+## 💡 Master DSA - The Foundation of Programming
+
+Comprehensive resources to build strong problem-solving skills and ace technical interviews.
+
+---
+
+## Core DSA Courses
 |   1. Algorithms, Part I by Coursera | [![Algorithms, Part I](https://ik.imagekit.io/yrvfdj8eu/coursera_FrWf1hqC8?ik-sdk-version=javascript-1.4.3&updatedAt=1670359766093 "Algorithms, Part I")](https://www.coursera.org/learn/algorithms-part1 "Algorithms, Part I")  | [Enroll for free](https://www.coursera.org/learn/algorithms-part1)  
 | 2. Algorithms, Part II by Coursera| [![Algorithms, Part II](https://ik.imagekit.io/yrvfdj8eu/coursera_FrWf1hqC8?ik-sdk-version=javascript-1.4.3&updatedAt=1670359766093 "Algorithms, Part II")](https://www.coursera.org/learn/algorithms-part2 "Algorithms, Part II")| [Enroll for free](https://www.coursera.org/learn/algorithms-part2)  
 | 3. Data Structures and Algorithms by GeeksforGeeks | [![Data Structures and Algorithms - Self Paced](https://ik.imagekit.io/yrvfdj8eu/Geek_For_Geeks_O8Ta-btYz?ik-sdk-version=javascript-1.4.3&updatedAt=1670360761743 "Data Structures and Algorithms - Self Paced")](https://practice.geeksforgeeks.org/courses/dsa-self-paced "Data Structures and Algorithms - Self Paced")| [Here you go](https://practice.geeksforgeeks.org/courses/dsa-self-paced)  

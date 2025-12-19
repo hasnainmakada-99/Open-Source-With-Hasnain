@@ -1,4 +1,12 @@
-# Open Source Resources
+# Open Source Resources - 2025 Edition
+
+## 🌟 Your Gateway to Open Source Contribution
+
+Master the art of contributing to open source projects with these comprehensive resources.
+
+---
+
+## Getting Started with Open Source
 
 |Description | Preview   | Link to get started with it   |
 | :------------: | :------------: | :------------: |

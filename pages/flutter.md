@@ -1,4 +1,12 @@
-# Flutter Resources
+# Flutter Resources - 2025 Edition
+
+## 🎯 Master Cross-Platform Mobile Development
+
+Build beautiful, natively compiled applications for mobile, web, and desktop with Flutter.
+
+---
+
+## Core Flutter Development
 
 | Description | Preview | Link to Get Started |
 | :---------: | :-----: | :-----------------: |
