@@ -16,4 +16,5 @@
   - [Data Structure And Algorithms](../pages/data-structure-and-algorithms-resources.md)
   - [BlockChain Development](../pages/full-stack-blockchain-development.md)
   - [Flutter](./../pages/flutter.md)
+  - [CTF & Cyber Security](../pages/ctf-resources.md)
   - [Paid Resources Collection](../pages/paid-resources.md)
